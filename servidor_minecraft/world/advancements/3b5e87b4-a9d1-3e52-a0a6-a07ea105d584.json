@@ -53,7 +53,8 @@
       "minecraft:lush_caves": "2024-12-26 04:45:20 +0000",
       "minecraft:windswept_forest": "2024-12-26 04:24:16 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-27 00:01:54 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-26 04:20:23 +0000"
+      "minecraft:old_growth_birch_forest": "2024-12-26 04:20:23 +0000",
+      "minecraft:plains": "2024-12-29 03:00:31 +0000"
     },
     "done": false
   },
@@ -4221,6 +4222,12 @@
     },
     "done": true
   },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2024-12-29 03:00:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2024-12-29 02:49:22 +0000"
@@ -4230,6 +4237,12 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2024-12-29 02:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-29 02:57:44 +0000"
     },
     "done": true
   },
