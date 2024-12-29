@@ -5554,3 +5554,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Dec2024 07:42:01.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Dec2024 07:47:01.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Dec2024 07:47:01.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 07:52:01.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 07:52:01.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 07:57:01.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 07:57:01.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 07:58:57.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Creative Mode]
