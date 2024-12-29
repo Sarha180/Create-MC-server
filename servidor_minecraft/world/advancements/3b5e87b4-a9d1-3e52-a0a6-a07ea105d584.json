@@ -679,9 +679,12 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2024-12-29 03:34:01 +0000",
       "glow_berries": "2024-12-26 23:10:53 +0000",
+      "onion": "2024-12-29 03:34:30 +0000",
       "sweet_berries": "2024-12-27 00:04:45 +0000",
-      "brown_mushroom": "2024-12-26 04:41:34 +0000"
+      "brown_mushroom": "2024-12-26 04:41:34 +0000",
+      "sugar_cane": "2024-12-29 03:28:27 +0000"
     },
     "done": false
   },
@@ -4307,6 +4310,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 03:35:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-29 02:40:04 +0000"
@@ -4340,6 +4349,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-12-29 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2024-12-29 03:35:12 +0000"
     },
     "done": true
   },
