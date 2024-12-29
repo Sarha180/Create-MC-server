@@ -4230,7 +4230,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2024-12-29 02:49:22 +0000"
+      "minecraft:sheep": "2024-12-29 02:49:22 +0000",
+      "minecraft:chicken": "2024-12-29 03:07:53 +0000"
     },
     "done": false
   },
@@ -4287,6 +4288,12 @@
       "has_lead": "2024-12-29 02:42:29 +0000"
     },
     "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2024-12-29 03:15:35 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
