@@ -1,0 +1,135 @@
+[29Dec2024 02:16:13.432] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[29Dec2024 02:16:13.436] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[29Dec2024 02:16:13.866] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[29Dec2024 02:16:13.913] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Create-MC-server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[29Dec2024 02:16:14.191] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[29Dec2024 02:16:14.192] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Dec2024 02:16:14.193] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Dec2024 02:16:14.194] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Dec2024 02:16:14.436] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
+[29Dec2024 02:16:16.730] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29Dec2024 02:16:16.747] [main/ERROR] [mixin/]: Mixin config palladiumcore-common.mixins.json does not specify "minVersion" property
+[29Dec2024 02:16:16.749] [main/ERROR] [mixin/]: Mixin config palladiumcore.mixins.json does not specify "minVersion" property
+[29Dec2024 02:16:16.752] [main/ERROR] [mixin/]: Mixin config vc_gliders-common.mixins.json does not specify "minVersion" property
+[29Dec2024 02:16:16.753] [main/ERROR] [mixin/]: Mixin config vc_gliders.mixins.json does not specify "minVersion" property
+[29Dec2024 02:16:16.857] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[29Dec2024 02:16:16.859] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[29Dec2024 02:16:17.788] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[29Dec2024 02:16:17.789] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[29Dec2024 02:16:17.790] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[29Dec2024 02:16:18.082] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[29Dec2024 02:16:21.471] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on palladiumcore-common.mixins.json:LightningBoltMixin::handler$zzg000$tick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[29Dec2024 02:16:25.346] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[29Dec2024 02:16:25.437] [modloading-worker-0/INFO] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Starting...
+[29Dec2024 02:16:25.437] [modloading-worker-0/WARN] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Not supported on dedicated server!
+[29Dec2024 02:16:25.459] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[29Dec2024 02:16:25.459] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[29Dec2024 02:16:25.600] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id meadow:var_request
+[29Dec2024 02:16:28.872] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:water_buffalo] was not realized!
+[29Dec2024 02:16:28.873] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:wooly_cow] was not realized!
+[29Dec2024 02:16:28.873] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[29Dec2024 02:16:28.873] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[29Dec2024 02:16:29.288] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:water_buffalo] was not realized!
+[29Dec2024 02:16:29.288] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:wooly_cow] was not realized!
+[29Dec2024 02:16:29.288] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[29Dec2024 02:16:29.289] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[29Dec2024 02:16:29.290] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:water_buffalo] was not realized!
+[29Dec2024 02:16:29.290] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:wooly_cow] was not realized!
+[29Dec2024 02:16:29.290] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[29Dec2024 02:16:29.290] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[29Dec2024 02:16:29.294] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[29Dec2024 02:16:29.294] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[29Dec2024 02:16:30.058] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
+[29Dec2024 02:16:30.594] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: OUTDATED Current: 2.0d Target: 2.0e
+[29Dec2024 02:16:30.594] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[29Dec2024 02:16:30.632] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[29Dec2024 02:16:30.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[29Dec2024 02:16:30.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[29Dec2024 02:16:30.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[29Dec2024 02:16:30.712] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
+[29Dec2024 02:16:30.713] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterf3] Starting version check at https://api.modrinth.com/updates/betterf3/forge_updates.json
+[29Dec2024 02:16:30.723] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[29Dec2024 02:16:30.723] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[29Dec2024 02:16:30.725] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[29Dec2024 02:16:30.725] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[29Dec2024 02:16:30.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterf3] Found status: UP_TO_DATE Current: 7.0.2 Target: null
+[29Dec2024 02:16:30.832] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[29Dec2024 02:16:31.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
+[29Dec2024 02:16:31.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Dec2024 02:16:31.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[29Dec2024 02:16:34.106] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Dec2024 02:16:36.366] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/assets/.mcassetsroot' uses unexpected schema
+[29Dec2024 02:16:36.367] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/data/.mcassetsroot' uses unexpected schema
+[29Dec2024 02:16:36.496] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: fokastudio:worldgen/biome/README.md, ignoring
+[29Dec2024 02:16:38.584] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[29Dec2024 02:16:40.116] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 33 recipes
+[29Dec2024 02:16:40.370] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3269 advancements
+[29Dec2024 02:16:40.386] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[29Dec2024 02:16:40.392] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[29Dec2024 02:16:40.394] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[29Dec2024 02:16:42.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[29Dec2024 02:16:42.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Dec2024 02:16:42.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Dec2024 02:16:42.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Dec2024 02:16:42.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Dec2024 02:16:42.955] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Dec2024 02:16:43.058] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Dec2024 02:16:43.059] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Dec2024 02:16:43.059] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Dec2024 02:16:43.060] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Dec2024 02:16:43.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Dec2024 02:16:52.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Dec2024 02:16:57.074] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 02:16:57.076] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 02:16:57.077] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 02:16:57.077] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 02:16:57.078] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 02:16:57.079] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 02:16:57.079] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 02:16:57.080] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 02:16:57.081] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 02:16:57.336] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 02:16:57.834] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[29Dec2024 02:16:58.334] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[29Dec2024 02:16:58.668] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5834 ms
+[29Dec2024 02:16:58.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.593s)! For help, type "help"
+[29Dec2024 02:16:58.722] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Dec2024 02:16:58.725] [Server thread/INFO] [net.stardustlabs.incendium.Incendium/]: Thanks for choosing Incendium!
+[29Dec2024 02:17:05.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sarh_a180_23[/127.193.217.12:44191] logged in with entity id 447 at (861.3292887259487, 75.0, -337.75607285340465)
+[29Dec2024 02:17:05.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Sarh_a180_23 joined the game
+[29Dec2024 02:17:11.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Adrienartix[/127.86.47.62:38425] logged in with entity id 636 at (862.4203073949831, 75.9337968405392, -355.0193522026658)
+[29Dec2024 02:17:11.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Adrienartix joined the game
+[29Dec2024 02:17:35.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> Holi
+[29Dec2024 02:17:38.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> olaaaaaa
+[29Dec2024 02:17:41.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> oye
+[29Dec2024 02:17:48.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> a m pasas tu tis tos
+[29Dec2024 02:17:55.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> si el server va algo lag es porque no le instale aun el optimizador de mods
+[29Dec2024 02:18:07.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> Sarh_a180_23 en tistos
+[29Dec2024 02:18:11.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> XD
+[29Dec2024 02:18:19.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> m va super fluidop xd
+[29Dec2024 02:18:23.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> xd
+[29Dec2024 02:18:33.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> pvp
+[29Dec2024 02:18:35.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> xd
+[29Dec2024 02:18:37.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> non
+[29Dec2024 02:19:53.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> mira ven
+[29Dec2024 02:20:15.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Adrienartix: Teleported [Señorita] Adrienartix to [Señorita] Sarh_a180_23]
+[29Dec2024 02:20:25.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> esta garra
+[29Dec2024 02:20:30.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> agarra esa cubeta
+[29Dec2024 02:20:36.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> y alimenta a los blazes
+[29Dec2024 02:20:48.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> y esa cosa de aarriba rellena la cubeta
+[29Dec2024 02:21:10.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> oooooo
+[29Dec2024 02:21:11.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> viste
+[29Dec2024 02:21:15.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> vi
+[29Dec2024 02:21:23.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> me encanta este mod
+[29Dec2024 02:21:27.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> JAJAJAJ
+[29Dec2024 02:22:25.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> afk xd
+[29Dec2024 02:22:28.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> XD
+[29Dec2024 02:23:58.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> busco mas ovejas?
+[29Dec2024 02:24:01.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> sis
+[29Dec2024 02:24:15.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> modo chamba >:3
+[29Dec2024 02:25:17.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> SE QUITARON los waypoint
+[29Dec2024 02:25:21.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> XD
+[29Dec2024 02:25:26.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> Es verdad
+[29Dec2024 02:25:41.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> eso es lo unico que no se pasó bien
+[29Dec2024 02:25:42.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Sarh_a180_23> xddd
+[29Dec2024 02:25:53.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> no way lil sis xd
