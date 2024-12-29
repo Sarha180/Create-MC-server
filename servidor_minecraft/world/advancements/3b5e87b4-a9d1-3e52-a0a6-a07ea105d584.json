@@ -60,10 +60,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2024-12-29 04:07:01 +0000",
       "log_spam_fixer": "2024-12-26 04:15:45 +0000"
     },
-    "done": true
+    "done": false
   },
   "meadow:main/root": {
     "criteria": {
@@ -706,6 +705,7 @@
       "tropical_fish": "2024-12-27 00:00:50 +0000",
       "apple": "2024-12-27 00:23:51 +0000",
       "potato": "2024-12-27 03:23:15 +0000",
+      "bread": "2024-12-29 04:09:28 +0000",
       "rotten_flesh": "2024-12-26 04:42:10 +0000",
       "glow_berries": "2024-12-26 23:10:47 +0000",
       "golden_carrot": "2024-12-27 03:23:53 +0000",
@@ -4217,73 +4217,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 04:07:01 +0000"
+      "log_spam_fixer": "2024-12-29 04:13:01 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 04:07:01 +0000"
+      "log_spam_fixer": "2024-12-29 04:13:01 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 04:07:01 +0000"
+      "log_spam_fixer": "2024-12-29 04:13:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 04:07:01 +0000"
+      "log_spam_fixer": "2024-12-29 04:13:01 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 04:07:01 +0000"
+      "log_spam_fixer": "2024-12-29 04:13:01 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 04:07:01 +0000"
+      "log_spam_fixer": "2024-12-29 04:13:01 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 04:07:01 +0000"
+      "log_spam_fixer": "2024-12-29 04:13:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 04:07:01 +0000"
+      "log_spam_fixer": "2024-12-29 04:13:01 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 04:07:01 +0000"
+      "log_spam_fixer": "2024-12-29 04:13:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 04:07:01 +0000"
+      "log_spam_fixer": "2024-12-29 04:13:01 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 04:07:01 +0000"
+      "log_spam_fixer": "2024-12-29 04:13:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 04:07:01 +0000"
+      "log_spam_fixer": "2024-12-29 04:13:01 +0000"
     },
     "done": false
   },
