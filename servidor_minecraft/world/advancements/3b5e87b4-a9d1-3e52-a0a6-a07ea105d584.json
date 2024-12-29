@@ -4213,6 +4213,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-29 03:46:58 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/tools/lead_from_straw": {
     "criteria": {
       "has_straw": "2024-12-29 02:44:12 +0000"
@@ -4237,6 +4243,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-29 03:44:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2024-12-29 02:49:22 +0000",
@@ -4247,6 +4259,12 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2024-12-29 02:40:04 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/leather_from_membranes": {
+    "criteria": {
+      "has_item": "2024-12-29 03:38:09 +0000"
     },
     "done": true
   },
