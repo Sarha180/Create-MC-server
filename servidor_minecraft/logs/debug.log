@@ -5559,3 +5559,26 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Dec2024 07:57:01.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Dec2024 07:57:01.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Dec2024 07:58:57.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Creative Mode]
+[29Dec2024 08:02:01.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 08:02:01.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 08:02:02.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Survival Mode]
+[29Dec2024 08:03:45.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Spectator Mode]
+[29Dec2024 08:04:07.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Survival Mode]
+[29Dec2024 08:05:03.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Creative Mode]
+[29Dec2024 08:05:56.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Survival Mode]
+[29Dec2024 08:06:04.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Creative Mode]
+[29Dec2024 08:06:11.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Survival Mode]
+[29Dec2024 08:06:16.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Creative Mode]
+[29Dec2024 08:06:19.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Spectator Mode]
+[29Dec2024 08:06:28.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Creative Mode]
+[29Dec2024 08:06:58.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Survival Mode]
+[29Dec2024 08:07:01.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 08:07:01.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 08:07:05.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Creative Mode]
+[29Dec2024 08:07:41.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Survival Mode]
+[29Dec2024 08:08:27.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Spectator Mode]
+[29Dec2024 08:08:30.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Survival Mode]
+[29Dec2024 08:08:33.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Spectator Mode]
+[29Dec2024 08:08:43.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Survival Mode]
+[29Dec2024 08:08:47.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Creative Mode]
+[29Dec2024 08:08:57.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Survival Mode]
