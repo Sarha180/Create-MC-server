@@ -6729,6 +6729,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 06:56:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
       "has_item": "2024-12-29 03:25:24 +0000"
