@@ -6626,12 +6626,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-29 05:27:01 +0000"
-    },
-    "done": false
-  },
   "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2024-12-29 03:33:12 +0000"
@@ -6665,6 +6659,12 @@
   "create:mechanical_crafter": {
     "criteria": {
       "0": "2024-12-29 03:33:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "white_savanna_grape_seeds": "2024-12-29 05:28:01 +0000"
     },
     "done": true
   },
