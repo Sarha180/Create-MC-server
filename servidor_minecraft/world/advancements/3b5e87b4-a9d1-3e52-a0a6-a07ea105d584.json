@@ -4216,6 +4216,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-29 03:22:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2024-12-29 02:49:22 +0000"
@@ -4283,6 +4289,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-29 03:22:48 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/climbing_rope_topmount": {
     "criteria": {
       "has_lead": "2024-12-29 02:42:29 +0000"
@@ -4322,6 +4334,12 @@
   "create:recipes/misc/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2024-12-29 02:56:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-29 03:22:42 +0000"
     },
     "done": true
   },
