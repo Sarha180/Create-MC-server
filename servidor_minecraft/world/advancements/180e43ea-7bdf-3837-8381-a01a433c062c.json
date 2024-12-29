@@ -6632,6 +6632,12 @@
     },
     "done": true
   },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2024-12-29 05:15:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_chute": {
     "criteria": {
       "has_item": "2024-12-29 04:45:08 +0000"
@@ -6659,6 +6665,12 @@
   "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
       "has_item": "2024-12-29 03:25:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2024-12-29 05:15:20 +0000"
     },
     "done": true
   },
