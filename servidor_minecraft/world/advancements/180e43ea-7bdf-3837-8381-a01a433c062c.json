@@ -2719,6 +2719,7 @@
       "sweet_berries": "2024-12-27 05:03:27 +0000",
       "kelp": "2024-12-28 04:18:02 +0000",
       "brown_mushroom": "2024-12-26 23:35:51 +0000",
+      "sugar_cane": "2024-12-29 06:19:07 +0000",
       "potato": "2024-12-27 04:14:58 +0000",
       "wheat": "2024-12-27 04:15:05 +0000"
     },
@@ -6662,6 +6663,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-29 06:26:13 +0000"
+    },
+    "done": true
+  },
   "create:track_0": {
     "criteria": {
       "0": "2024-12-29 05:55:34 +0000"
@@ -6683,6 +6690,12 @@
   "create:recipes/misc/crafting/kinetics/train_trapdoor": {
     "criteria": {
       "has_item": "2024-12-29 05:22:36 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2024-12-29 06:25:28 +0000"
     },
     "done": true
   },

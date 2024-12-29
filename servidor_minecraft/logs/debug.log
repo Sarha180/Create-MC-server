@@ -5497,3 +5497,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Dec2024 06:02:01.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Dec2024 06:07:01.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Dec2024 06:07:01.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 06:12:01.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 06:12:01.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 06:17:01.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 06:17:01.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 06:17:33.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Spectator Mode]
+[29Dec2024 06:17:47.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Survival Mode]
+[29Dec2024 06:18:02.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Spectator Mode]
+[29Dec2024 06:18:06.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Sarh_a180_23: Set own game mode to Survival Mode]
+[29Dec2024 06:22:01.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 06:22:01.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 06:27:01.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 06:27:01.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
