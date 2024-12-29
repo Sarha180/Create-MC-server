@@ -5522,3 +5522,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Dec2024 06:56:12.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Sarh_a180_23 has reached the goal [Bone Crusher]
 [29Dec2024 06:57:01.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Dec2024 06:57:01.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 07:02:01.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 07:02:01.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 07:06:51.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Sarh_a180_23 burned to death
+[29Dec2024 07:06:51.245] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sarh_a180_23 was created at position [x:845, y:74, z:-361, dim:minecraft:overworld]
+[29Dec2024 07:06:51.247] [Server thread/INFO] [tombstone/]: The player Sarh_a180_23 has successfully been saved
+[29Dec2024 07:07:01.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 07:07:01.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
