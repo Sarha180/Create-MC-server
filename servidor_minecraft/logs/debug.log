@@ -5178,3 +5178,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Dec2024 02:59:17.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=80, z=-356} BlockPos{x=821, y=78, z=-355}
 [30Dec2024 02:59:17.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=80, z=-356} BlockPos{x=821, y=78, z=-355}
 [30Dec2024 02:59:31.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Adrienartix has made the advancement [A Seedy Place]
+[30Dec2024 03:00:35.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:00:35.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:03:52.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> que mas necesita arqui
+[30Dec2024 03:04:09.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xD
+[30Dec2024 03:04:16.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Retoños de roble
+[30Dec2024 03:04:45.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> tenemo 3
+[30Dec2024 03:04:57.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> necesito unos 10
+[30Dec2024 03:05:35.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:05:35.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:07:09.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> contando los 3?
+[30Dec2024 03:07:41.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> SIS
