@@ -2984,3 +2984,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [30Dec2024 20:23:49.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arquitecta] Sarh_a180_23 has made the advancement [What a Deal!]
 [30Dec2024 20:26:59.032] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 4 redstone because there is no smelting recipe
 [30Dec2024 20:55:16.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sarh_a180_23 moved wrongly!
+[30Dec2024 21:59:33.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arquitecta] Sarh_a180_23 burned to death
+[30Dec2024 21:59:33.807] [Server thread/INFO] [tombstone/]: The player Sarh_a180_23 has successfully been saved
+[30Dec2024 22:00:08.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
+[30Dec2024 22:11:45.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Set the time to 1000]
