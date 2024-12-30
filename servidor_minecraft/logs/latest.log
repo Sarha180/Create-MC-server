@@ -2983,3 +2983,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [30Dec2024 20:03:01.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Set own game mode to Survival Mode]
 [30Dec2024 20:23:49.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arquitecta] Sarh_a180_23 has made the advancement [What a Deal!]
 [30Dec2024 20:26:59.032] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 4 redstone because there is no smelting recipe
+[30Dec2024 20:55:16.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sarh_a180_23 moved wrongly!
