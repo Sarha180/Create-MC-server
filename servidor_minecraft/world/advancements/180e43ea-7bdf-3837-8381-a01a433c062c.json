@@ -63,9 +63,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2024-12-30 03:40:35 +0000",
       "log_spam_fixer": "2024-12-26 04:05:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "meadow:main/root": {
     "criteria": {
@@ -6773,6 +6774,12 @@
     },
     "done": true
   },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-12-30 03:31:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
     "criteria": {
       "has_item": "2024-12-30 02:41:53 +0000"
@@ -6788,6 +6795,12 @@
   "create:crusher_maxed_0000": {
     "criteria": {
       "0": "2024-12-30 02:30:58 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2024-12-30 03:32:04 +0000"
     },
     "done": true
   },
