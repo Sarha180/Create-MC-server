@@ -6797,6 +6797,14 @@
     },
     "done": true
   },
+  "vinery:main/grape_picker": {
+    "criteria": {
+      "vinery:taiga_grapes_red": "2024-12-30 06:46:16 +0000",
+      "vinery:savanna_grapes_red": "2024-12-30 06:46:16 +0000",
+      "vinery:red_grape": "2024-12-30 06:46:16 +0000"
+    },
+    "done": false
+  },
   "create:cart_pickup": {
     "criteria": {
       "0": "2024-12-30 06:33:38 +0000"
@@ -6844,6 +6852,14 @@
       "0": "2024-12-30 04:41:43 +0000"
     },
     "done": true
+  },
+  "vinery:main/vineyard_visionary": {
+    "criteria": {
+      "vinery:taiga_grapes_red": "2024-12-30 06:46:16 +0000",
+      "vinery:savanna_grapes_red": "2024-12-30 06:46:16 +0000",
+      "vinery:red_grape": "2024-12-30 06:46:16 +0000"
+    },
+    "done": false
   },
   "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
     "criteria": {
