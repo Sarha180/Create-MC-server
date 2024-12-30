@@ -5157,3 +5157,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Dec2024 02:49:12.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> hice sin querer piedra infinita
 [30Dec2024 02:49:15.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xddd
 [30Dec2024 02:50:07.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> nunca aceptaste mi soli de tistos xd ;-;
+[30Dec2024 02:50:13.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xd
+[30Dec2024 02:50:15.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> no me llego
+[30Dec2024 02:50:35.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 02:50:35.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 02:50:40.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> a pk si
+[30Dec2024 02:53:12.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> m cree un mundo para mi solita y o=en 20 minutos consegui todos los materiales qur tenemos en este xd
+[30Dec2024 02:53:19.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xd
+[30Dec2024 02:55:35.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 02:55:35.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 02:55:58.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> graciaas
+[30Dec2024 02:56:04.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> mira
+[30Dec2024 02:56:20.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> goooood
+[30Dec2024 02:56:28.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> son las de tren
+[30Dec2024 02:56:36.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> estan hermosas
+[30Dec2024 02:57:12.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> 12 huevos
+[30Dec2024 02:59:08.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=817, y=77, z=-366} BlockPos{x=816, y=76, z=-367}
+[30Dec2024 02:59:08.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=817, y=77, z=-366} BlockPos{x=816, y=76, z=-367}
+[30Dec2024 02:59:10.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=818, y=77, z=-363} BlockPos{x=817, y=78, z=-363}
+[30Dec2024 02:59:17.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=80, z=-356} BlockPos{x=821, y=78, z=-355}
+[30Dec2024 02:59:17.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=80, z=-356} BlockPos{x=821, y=78, z=-355}
+[30Dec2024 02:59:31.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Adrienartix has made the advancement [A Seedy Place]
