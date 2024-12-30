@@ -1009,6 +1009,7 @@
       "cooked_beef": "2024-12-26 23:52:32 +0000",
       "baked_potato": "2024-12-27 04:13:32 +0000",
       "porkchop": "2024-12-28 03:36:07 +0000",
+      "apple": "2024-12-30 21:19:33 +0000",
       "bread": "2024-12-27 06:02:36 +0000",
       "rotten_flesh": "2024-12-27 03:55:45 +0000",
       "glow_berries": "2024-12-26 04:54:29 +0000",
@@ -6933,6 +6934,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/andesite_castel_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:09:14 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/metal_support_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2024-12-30 20:47:13 +0000"
@@ -6948,6 +6955,12 @@
   "createdeco:recipes/decorations/decal_down_right": {
     "criteria": {
       "has_item": "2024-12-30 20:47:17 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/andesite_castel_tile_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:09:14 +0000"
     },
     "done": true
   },
@@ -7023,9 +7036,21 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/andesite_castel_tile_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:09:14 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_down_left": {
     "criteria": {
       "has_item": "2024-12-30 20:47:17 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/andesite_castel_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:09:14 +0000"
     },
     "done": true
   },
@@ -7281,6 +7306,18 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/andesite_castel_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:09:14 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/andesite_castel_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:09:14 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_top_left": {
     "criteria": {
       "has_item": "2024-12-30 20:47:17 +0000"
@@ -7317,6 +7354,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/andesite_castel_tiles_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:09:14 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/metal_sheet_slab_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2024-12-30 20:47:13 +0000"
@@ -7338,6 +7381,12 @@
   "createdeco:recipes/decorations/blue_shipping_container": {
     "criteria": {
       "has_item": "2024-12-30 20:47:17 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/andesite_castel_tile_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:09:14 +0000"
     },
     "done": true
   },
