@@ -7438,5 +7438,11 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/track_coupler": {
+    "criteria": {
+      "has_item": "2024-12-31 07:06:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
