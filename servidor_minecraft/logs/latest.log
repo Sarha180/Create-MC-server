@@ -295,3 +295,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [31Dec2024 03:45:51.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 718.500000, 70.500000, -440.500000]
 [31Dec2024 03:45:56.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> non
 [31Dec2024 03:46:04.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> pipipi
+[31Dec2024 03:46:34.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Adrienartix has made the advancement [What a Deal!]
+[31Dec2024 03:46:48.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Adrienartix has made the advancement [Juicy Success]
+[31Dec2024 03:47:32.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=727, y=70, z=-419} BlockPos{x=727, y=68, z=-420}
+[31Dec2024 03:53:47.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=767, y=71, z=-381} BlockPos{x=767, y=69, z=-380}
+[31Dec2024 03:54:18.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Adrienartix: Teleported [Señorita] Adrienartix to [Arquitecta] Sarh_a180_23]
+[31Dec2024 03:54:18.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Adrienartix froze to death
+[31Dec2024 03:54:18.982] [Server thread/INFO] [tombstone/]: The player Adrienartix has successfully been saved
+[31Dec2024 03:54:38.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Cerre el mini mapa y aqui esta tu tumba XD
+[31Dec2024 03:54:52.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> xd
+[31Dec2024 03:55:01.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> vivita y coleando
+[31Dec2024 03:55:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Estoy haciendo la gloriosa aplanacion
+[31Dec2024 03:56:00.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> i see
+[31Dec2024 03:56:09.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> yo ando buscando la azurina

@@ -4688,5 +4688,37 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/wood_support_from_planks_stonecutting": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:44:07 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/red_grape_bag": {
+    "criteria": {
+      "has_red_grape": "2024-12-31 03:46:45 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/nectar_of_life": {
+    "criteria": {
+      "vinery:red_jungle_grapejuice": "2024-12-31 03:46:53 +0000",
+      "vinery:white_grapejuice": "2024-12-31 03:46:48 +0000",
+      "vinery:red_savanna_grapejuice": "2024-12-31 03:46:51 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/juicy_success": {
+    "criteria": {
+      "have_any_juice": "2024-12-31 03:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-31 03:46:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
