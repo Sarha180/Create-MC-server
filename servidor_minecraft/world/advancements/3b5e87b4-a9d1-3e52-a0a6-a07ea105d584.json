@@ -4688,15 +4688,63 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/veridium_castel_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-31 04:04:04 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/veridium_castel_tile_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-31 04:04:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
     },
     "done": true
   },
@@ -4712,15 +4760,51 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_tavern": {
     "criteria": {
       "nova_structures:tavern_oak": "2024-12-31 03:58:26 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/dusk_bricks": {
+    "criteria": {
+      "has_item": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/veridium_castel_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-31 04:04:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
     },
     "done": true
   },
@@ -4736,6 +4820,48 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/scorchia_castel_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scorchia_castel_tile_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scorchia_castel_tile_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scorchia_castel_tiles_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
   "vinery:main/nectar_of_life": {
     "criteria": {
       "vinery:red_jungle_grapejuice": "2024-12-31 03:46:53 +0000",
@@ -4743,6 +4869,12 @@
       "vinery:red_savanna_grapejuice": "2024-12-31 03:46:51 +0000"
     },
     "done": false
+  },
+  "design_decor:recipes/building_blocks/scorchia_castel_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
   },
   "design_decor:recipes/building_blocks/veridium_castel_bricks_from_stone_types_veridium_stonecutting": {
     "criteria": {
@@ -4753,6 +4885,12 @@
   "vinery:main/juicy_success": {
     "criteria": {
       "have_any_juice": "2024-12-31 03:46:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
     },
     "done": true
   },
@@ -4780,15 +4918,45 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/scorchia_castel_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2024-12-31 03:56:55 +0000"
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/scorchia_castel_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/veridium_castel_tile_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-31 04:04:04 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scorchia_castel_tile_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
     },
     "done": true
   },

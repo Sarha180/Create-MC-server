@@ -11381,3 +11381,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [31Dec2024 04:36:46.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> por eso te pedi que minaras redstone xdddd
 [31Dec2024 04:36:50.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> xddddd
 [31Dec2024 04:36:54.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> ola nether
+[31Dec2024 04:37:08.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> se que no nos llebamos bien
+[31Dec2024 04:37:20.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> pero solo vbengo por un poco de cuarzo
+[31Dec2024 04:37:27.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xddd
+[31Dec2024 04:38:24.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> sabes
+[31Dec2024 04:38:33.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> estoy bien dormida
+[31Dec2024 04:38:42.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xddd
+[31Dec2024 04:38:45.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> porque
+[31Dec2024 04:39:03.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> pense que el carbon era piedra negra y lo queria usar de bloque
+[31Dec2024 04:39:07.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
+[31Dec2024 04:39:11.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
+[31Dec2024 04:39:31.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 731.500000, 70.500000, -432.500000]
+[31Dec2024 04:40:54.392] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 04:41:44.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 04:41:44.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 04:41:57.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=832, y=70, z=-402} BlockPos{x=833, y=68, z=-402}
+[31Dec2024 04:42:16.644] [Server thread/INFO] [EMI/]: [EMI] Sarh_a180_23 deleted 1 spruce_sapling
+[31Dec2024 04:43:31.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> llevare un stack y a la cama
+[31Dec2024 04:43:42.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> ???
+[31Dec2024 04:43:52.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> esa frase se puede interpretar de muchas formas
+[31Dec2024 04:43:54.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> :v
+[31Dec2024 04:44:01.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> pues que dije
+[31Dec2024 04:44:04.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> FJIJJOAJOCVOAFO
+[31Dec2024 04:44:35.134] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/27661, l='ServerLevel[world]', x=171.00, y=34.99, z=6.55] died: Restless Spirit starved to death
+[31Dec2024 04:44:35.135] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/27663, l='ServerLevel[world]', x=177.20, y=46.64, z=-12.27] died: Restless Spirit starved to death
+[31Dec2024 04:44:39.986] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/27715, l='ServerLevel[world]', x=139.14, y=102.53, z=-15.51] died: Restless Spirit starved to death
+[31Dec2024 04:44:39.987] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/27717, l='ServerLevel[world]', x=150.51, y=100.71, z=-4.20] died: Restless Spirit starved to death
+[31Dec2024 04:45:24.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/28078, l='ServerLevel[world]', x=143.21, y=100.89, z=-6.35] died: Restless Spirit starved to death
+[31Dec2024 04:45:47.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Adrienartix: Teleported [Señorita] Adrienartix to [Arquitecta] Sarh_a180_23]
+[31Dec2024 04:45:56.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> ola bb
+[31Dec2024 04:46:00.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> ????
+[31Dec2024 04:46:02.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> JKSDAKJDAS
+[31Dec2024 04:46:19.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> cualquier cosa ando dormida
+[31Dec2024 04:46:25.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Adrienartix: Teleported [Señorita] Adrienartix to 652.500000, -1.500000, -806.500000]
+[31Dec2024 04:46:28.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Apoco si
+[31Dec2024 04:46:44.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 04:46:44.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 04:46:47.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> mentira no es xdddddddddddd
+[31Dec2024 04:46:53.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xddd
