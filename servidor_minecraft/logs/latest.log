@@ -592,3 +592,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [31Dec2024 05:45:04.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=811, y=69, z=-422} BlockPos{x=813, y=67, z=-422}
 [31Dec2024 05:46:27.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=833, y=68, z=-436} BlockPos{x=833, y=66, z=-437}
 [31Dec2024 05:46:27.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=833, y=68, z=-436} BlockPos{x=833, y=66, z=-437}
+[31Dec2024 06:12:29.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 816.500000, 70.500000, -431.500000]
+[31Dec2024 06:12:40.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 765.500000, 70.500000, -417.500000]
+[31Dec2024 06:31:47.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
+[31Dec2024 06:36:12.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
