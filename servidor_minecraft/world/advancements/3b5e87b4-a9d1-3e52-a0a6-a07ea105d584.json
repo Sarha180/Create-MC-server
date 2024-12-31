@@ -4826,6 +4826,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2024-12-31 04:51:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-31 04:39:45 +0000"
@@ -4915,6 +4921,12 @@
   "createdeco:recipes/building_blocks/verdant_bricks": {
     "criteria": {
       "has_item": "2024-12-31 04:04:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2024-12-31 04:51:38 +0000"
     },
     "done": true
   },
