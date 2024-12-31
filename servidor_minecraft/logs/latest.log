@@ -218,3 +218,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [31Dec2024 03:14:27.188] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [create_recipes:create_recipes] rejected their client side version number
 [31Dec2024 03:14:27.189] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [31Dec2024 03:14:27.233] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a7a2d26[id=<null>,name=Adrienartix,properties={},legacy=false] (/127.86.47.62:33549) lost connection: Connection closed - mismatched mod channel list
+[31Dec2024 03:16:37.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Adrienartix[/127.86.47.62:44631] logged in with entity id 4486 at (862.2422321382044, 75.0, -363.48067922227796)
+[31Dec2024 03:16:37.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Adrienartix joined the game
+[31Dec2024 03:16:44.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Holii
+[31Dec2024 03:16:50.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> holaa
+[31Dec2024 03:16:54.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> ya viste la nueva descripción del server? JKAJSDKA
+[31Dec2024 03:17:00.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> pq tengo un cora
+[31Dec2024 03:17:04.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> No c
+[31Dec2024 03:17:05.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> SIIII GOIJSIOGJIJISGJH
+[31Dec2024 03:17:18.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> quedo bien la desc
+[31Dec2024 03:17:25.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> mira el minimapa
+[31Dec2024 03:17:47.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> que tanto hiciste en mi ausencia xd
+[31Dec2024 03:17:48.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=840, y=65, z=-441} BlockPos{x=840, y=63, z=-441}
+[31Dec2024 03:17:51.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> mucho
+[31Dec2024 03:18:03.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> pq hay redstone aqui OGAOK
+[31Dec2024 03:18:09.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> creepers de ores
+[31Dec2024 03:18:18.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> mis besties
+[31Dec2024 03:18:51.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> estoy cerca de la maquina de madera
+[31Dec2024 03:19:32.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> parece macchu pichu
+[31Dec2024 03:19:36.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
+[31Dec2024 03:21:28.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Es que quiero hacer un mega taller de trenes que vayan a distintos lado
+[31Dec2024 03:21:43.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> omagad
+[31Dec2024 03:21:55.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> Tren maya referencia
+[31Dec2024 03:22:00.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
+[31Dec2024 03:22:19.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Quiero hacer uno que ponga sus propias vias para ir a cualquier lado
+[31Dec2024 03:23:15.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> suena muy top xd
+[31Dec2024 03:23:32.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> imaginate poder hacer que vuele
+[31Dec2024 03:23:36.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
+[31Dec2024 03:23:51.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> de hecho si
+[31Dec2024 03:24:16.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> que tal si hacemos un tren llenos de explosivo y se lo aventamos al ender dragon?
+[31Dec2024 03:24:21.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
+[31Dec2024 03:24:28.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Creo que los trenes no van al end
