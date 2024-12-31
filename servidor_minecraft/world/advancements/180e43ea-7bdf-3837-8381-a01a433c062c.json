@@ -7432,11 +7432,5 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-31 03:01:44 +0000"
-    },
-    "done": false
-  },
   "DataVersion": 3465
 }
