@@ -4688,6 +4688,18 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/veridium_castel_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-31 04:04:04 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/veridium_castel_tile_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-31 04:04:04 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/wood_support_from_planks_stonecutting": {
     "criteria": {
       "has_planks": "2024-12-31 03:44:07 +0000"
@@ -4706,6 +4718,18 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/veridium_castel_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-31 04:04:04 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/veridium_castel_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-31 04:04:04 +0000"
+    },
+    "done": true
+  },
   "vinery:main/nectar_of_life": {
     "criteria": {
       "vinery:red_jungle_grapejuice": "2024-12-31 03:46:53 +0000",
@@ -4714,9 +4738,21 @@
     },
     "done": false
   },
+  "design_decor:recipes/building_blocks/veridium_castel_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-31 04:04:04 +0000"
+    },
+    "done": true
+  },
   "vinery:main/juicy_success": {
     "criteria": {
       "have_any_juice": "2024-12-31 03:46:48 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/veridium_castel_tiles_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-31 04:04:04 +0000"
     },
     "done": true
   },
@@ -4732,9 +4768,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/building_blocks/verdant_bricks": {
+    "criteria": {
+      "has_item": "2024-12-31 04:04:04 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2024-12-31 03:56:55 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/veridium_castel_tile_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-31 04:04:04 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/veridium_castel_tile_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-31 04:04:04 +0000"
     },
     "done": true
   },
