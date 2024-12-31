@@ -4700,6 +4700,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2024-12-31 03:58:26 +0000"
+    },
+    "done": true
+  },
   "vinery:main/nectar_of_life": {
     "criteria": {
       "vinery:red_jungle_grapejuice": "2024-12-31 03:46:53 +0000",
@@ -4717,6 +4723,18 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-31 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2024-12-31 03:58:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-31 03:56:55 +0000"
     },
     "done": true
   },
