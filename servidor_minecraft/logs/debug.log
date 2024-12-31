@@ -11501,3 +11501,76 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [31Dec2024 05:06:44.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Dec2024 05:06:44.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Dec2024 05:06:56.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Sirvienta] Adrienartix: Teleported [Sirvienta] Adrienartix to [Arquitecta] Sarh_a180_23]
+[31Dec2024 05:07:45.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> graciaas
+[31Dec2024 05:07:50.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> ten pa k ilumines xd
+[31Dec2024 05:08:05.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> aun no lo hacia porque falta mucho terreno xd
+[31Dec2024 05:08:14.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> el color se puede cambiar? xd
+[31Dec2024 05:08:22.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> el del rango
+[31Dec2024 05:08:23.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> ?
+[31Dec2024 05:08:24.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> si
+[31Dec2024 05:08:32.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> es que veo que hay como 50 bichos alrededor
+[31Dec2024 05:08:37.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> sip del rango xd
+[31Dec2024 05:08:47.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> es que el anterior es mi color fav
+[31Dec2024 05:08:54.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> ese?
+[31Dec2024 05:09:00.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> xd
+[31Dec2024 05:09:03.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> nono
+[31Dec2024 05:09:10.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> es como verde menta
+[31Dec2024 05:09:15.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> pero mas apagado
+[31Dec2024 05:09:22.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> ese?
+[31Dec2024 05:09:24.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> sip ese
+[31Dec2024 05:09:42.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> toma toma toma
+[31Dec2024 05:09:50.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> JKSJD
+[31Dec2024 05:09:59.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> buenooooooooooo
+[31Dec2024 05:10:04.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> ya ahora si m voy
+[31Dec2024 05:10:11.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Oks
+[31Dec2024 05:10:14.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> descansaaaaaa
+[31Dec2024 05:10:17.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> sis
+[31Dec2024 05:10:26.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Adrienartix lost connection: Disconnected
+[31Dec2024 05:10:26.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sirvienta] Adrienartix left the game
+[31Dec2024 05:11:31.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=750, y=72, z=-412} BlockPos{x=750, y=70, z=-410}
+[31Dec2024 05:11:44.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 05:11:44.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 05:12:29.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=812, y=68, z=-416} BlockPos{x=811, y=68, z=-416}
+[31Dec2024 05:12:29.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=812, y=68, z=-416} BlockPos{x=811, y=68, z=-416}
+[31Dec2024 05:15:16.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=755, y=69, z=-405} BlockPos{x=755, y=67, z=-403}
+[31Dec2024 05:15:16.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=755, y=69, z=-405} BlockPos{x=755, y=67, z=-403}
+[31Dec2024 05:16:44.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 05:16:44.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 05:21:44.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 05:21:44.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 05:26:44.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 05:26:44.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 05:27:02.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
+[31Dec2024 05:27:47.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 764.500000, 70.500000, -404.500000]
+[31Dec2024 05:30:14.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=68, z=-413} BlockPos{x=839, y=67, z=-413}
+[31Dec2024 05:30:14.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=68, z=-413} BlockPos{x=839, y=67, z=-413}
+[31Dec2024 05:30:14.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=69, z=-412} BlockPos{x=838, y=67, z=-412}
+[31Dec2024 05:31:44.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 05:31:44.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 05:36:44.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 05:36:44.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 05:37:25.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
+[31Dec2024 05:38:26.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=799, y=69, z=-421} BlockPos{x=798, y=67, z=-422}
+[31Dec2024 05:38:26.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=799, y=69, z=-421} BlockPos{x=798, y=67, z=-422}
+[31Dec2024 05:38:26.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=68, z=-421} BlockPos{x=798, y=67, z=-422}
+[31Dec2024 05:38:26.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=68, z=-421} BlockPos{x=798, y=67, z=-422}
+[31Dec2024 05:38:26.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=68, z=-421} BlockPos{x=798, y=67, z=-422}
+[31Dec2024 05:38:26.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=68, z=-423} BlockPos{x=798, y=67, z=-422}
+[31Dec2024 05:38:26.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=68, z=-423} BlockPos{x=798, y=67, z=-422}
+[31Dec2024 05:38:26.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=68, z=-423} BlockPos{x=798, y=67, z=-422}
+[31Dec2024 05:38:26.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=68, z=-423} BlockPos{x=798, y=67, z=-422}
+[31Dec2024 05:38:28.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=794, y=68, z=-427} BlockPos{x=793, y=68, z=-428}
+[31Dec2024 05:38:33.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=777, y=69, z=-431} BlockPos{x=776, y=68, z=-430}
+[31Dec2024 05:41:27.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=779, y=68, z=-432} BlockPos{x=779, y=67, z=-433}
+[31Dec2024 05:41:44.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 05:41:44.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 05:43:31.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sarh_a180_23 moved too quickly! -8.377292427943758,-1.7420008964847256,5.631866998410658
+[31Dec2024 05:44:44.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=817, y=69, z=-433} BlockPos{x=816, y=67, z=-434}
+[31Dec2024 05:44:44.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=817, y=69, z=-433} BlockPos{x=816, y=67, z=-434}
+[31Dec2024 05:45:02.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=811, y=69, z=-426} BlockPos{x=813, y=67, z=-425}
+[31Dec2024 05:45:02.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=811, y=69, z=-426} BlockPos{x=813, y=67, z=-425}
+[31Dec2024 05:45:04.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=811, y=69, z=-422} BlockPos{x=813, y=67, z=-422}
+[31Dec2024 05:46:27.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=833, y=68, z=-436} BlockPos{x=833, y=66, z=-437}
+[31Dec2024 05:46:27.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=833, y=68, z=-436} BlockPos{x=833, y=66, z=-437}
+[31Dec2024 05:46:44.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 05:46:44.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
