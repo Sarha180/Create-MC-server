@@ -7462,6 +7462,12 @@
     },
     "done": true
   },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-01-02 04:53:50 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/green_andesite_lamp": {
     "criteria": {
       "has_item": "2025-01-02 03:42:17 +0000"
