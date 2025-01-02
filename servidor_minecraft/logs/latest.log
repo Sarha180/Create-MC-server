@@ -367,3 +367,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [02Jan2025 03:59:29.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=848, y=72, z=-384} BlockPos{x=848, y=71, z=-385}
 [02Jan2025 03:59:29.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=849, y=72, z=-384} BlockPos{x=850, y=70, z=-384}
 [02Jan2025 03:59:36.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XDDD
+[02Jan2025 04:00:52.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> esto es un asalto deme todo su cuero
+[02Jan2025 04:01:01.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
+[02Jan2025 04:01:52.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Gave 4 [String] to [Arquitecta] Sarh_a180_23]
+[02Jan2025 04:03:55.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> al chile no se sobre las mesas de encantamiento pero hare lo que pueda xd
+[02Jan2025 04:04:02.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xdddd
+[02Jan2025 04:05:50.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Sirvienta] Adrienartix: Teleported [Sirvienta] Adrienartix to [Arquitecta] Sarh_a180_23]
+[02Jan2025 04:06:34.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> tienes cana de azucar o papel?
+[02Jan2025 04:06:38.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> non
+[02Jan2025 04:06:45.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> pipippi
+[02Jan2025 04:09:28.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> ayuda
+[02Jan2025 04:09:50.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sirvienta] Adrienartix froze to death
+[02Jan2025 04:09:50.540] [Server thread/INFO] [tombstone/]: The player Adrienartix has successfully been saved
