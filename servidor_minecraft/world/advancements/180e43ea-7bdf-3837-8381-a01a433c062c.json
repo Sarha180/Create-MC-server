@@ -7462,6 +7462,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/crafting/copycat_large_cogwheel": {
+    "criteria": {
+      "has_item": "2025-01-02 06:05:38 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/red_andesite_lamp": {
     "criteria": {
       "has_item": "2025-01-02 03:42:17 +0000"
