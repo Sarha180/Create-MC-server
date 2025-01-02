@@ -7450,9 +7450,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-02 03:02:51 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/fuel_tank": {
     "criteria": {
       "has_item": "2025-01-02 02:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-02 03:04:29 +0000"
     },
     "done": true
   },
