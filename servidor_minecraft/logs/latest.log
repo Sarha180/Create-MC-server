@@ -211,3 +211,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [02Jan2025 02:31:25.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sarh_a180_23[/127.193.217.12:40207] logged in with entity id 456 at (800.1148930822006, 70.0, -434.1086876846819)
 [02Jan2025 02:31:25.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arquitecta] Sarh_a180_23 joined the game
 [02Jan2025 02:31:27.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2644ms or 52 ticks behind
+[02Jan2025 02:58:28.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Adrienartix[/127.86.47.62:50891] logged in with entity id 4296 at (760.4251631094747, 69.0, -411.3808771933126)
+[02Jan2025 02:58:28.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sirvienta] Adrienartix joined the game
+[02Jan2025 02:59:00.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> oa
+[02Jan2025 02:59:19.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Holi
+[02Jan2025 02:59:53.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> olai
+[02Jan2025 02:59:57.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> :3
+[02Jan2025 03:00:12.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> :3
