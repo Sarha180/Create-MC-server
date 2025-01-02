@@ -7450,6 +7450,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_support_wedge": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 04:02:11 +0000"
@@ -7459,6 +7465,12 @@
   "createdeco:recipes/decorations/red_andesite_lamp": {
     "criteria": {
       "has_item": "2025-01-02 03:42:17 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:38 +0000"
     },
     "done": true
   },
@@ -7486,6 +7498,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_hull": {
+    "criteria": {
+      "has_item": "2025-01-02 05:26:57 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 04:02:11 +0000"
@@ -7510,9 +7528,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/yellow_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 04:02:11 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:41 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars_overlay": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:41 +0000"
     },
     "done": true
   },
@@ -7546,6 +7582,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_support": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 04:02:11 +0000"
@@ -7576,9 +7618,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:38 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/andesite_trapdoor": {
     "criteria": {
       "has_item": "2025-01-02 03:42:17 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-02 05:26:57 +0000"
     },
     "done": true
   },
@@ -7588,9 +7642,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_trapdoor": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 04:02:11 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_sheet_metal": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:41 +0000"
     },
     "done": true
   },
@@ -7600,9 +7666,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 04:02:11 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:38 +0000"
     },
     "done": true
   },
@@ -7621,6 +7699,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 04:02:11 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_mesh_fence": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:41 +0000"
     },
     "done": true
   },
@@ -7654,6 +7738,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_catwalk_forge": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 04:02:11 +0000"
@@ -7666,9 +7756,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/blue_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 04:02:11 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:38 +0000"
     },
     "done": true
   },
@@ -7702,9 +7804,33 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:38 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/building_blocks/andesite_window": {
     "criteria": {
       "has_item": "2025-01-02 03:42:17 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:41 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars_overlay_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:38 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_support_wedge_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:38 +0000"
     },
     "done": true
   },
@@ -7720,9 +7846,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/building_blocks/copper_window": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 04:02:11 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_door": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:38 +0000"
     },
     "done": true
   },
@@ -7765,6 +7903,12 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 04:02:11 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-02 05:30:38 +0000"
     },
     "done": true
   },
