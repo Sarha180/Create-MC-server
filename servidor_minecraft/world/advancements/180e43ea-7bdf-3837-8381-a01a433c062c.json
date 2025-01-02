@@ -7510,6 +7510,12 @@
     },
     "done": true
   },
+  "stellarity:adventure/kill_large_phantom": {
+    "criteria": {
+      "size_doesnt_matter": "2025-01-02 05:44:18 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/andesite_mesh_fence_from_stonecutting": {
     "criteria": {
       "has_item": "2025-01-02 03:42:17 +0000"

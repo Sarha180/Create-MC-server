@@ -523,3 +523,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [02Jan2025 05:20:16.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> byeee :3
 [02Jan2025 05:20:21.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Adrienartix lost connection: Disconnected
 [02Jan2025 05:20:21.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sirvienta] Adrienartix left the game
+[02Jan2025 05:44:18.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arquitecta] Sarh_a180_23 has reached the goal [Worsening Nightmares]
+[02Jan2025 05:48:12.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arquitecta] Sarh_a180_23 was doomed to fall by Phantom
+[02Jan2025 05:48:12.336] [Server thread/INFO] [tombstone/]: The player Sarh_a180_23 has successfully been saved
