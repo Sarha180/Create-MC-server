@@ -1,118 +1,118 @@
-[31Dec2024 02:55:47.424] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[31Dec2024 02:55:47.429] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[31Dec2024 02:55:48.557] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[31Dec2024 02:55:48.610] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Create-MC-server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[31Dec2024 02:55:48.900] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[31Dec2024 02:55:48.902] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[31Dec2024 02:55:48.904] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[31Dec2024 02:55:48.906] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[31Dec2024 02:55:49.168] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
-[31Dec2024 02:55:51.383] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[31Dec2024 02:55:51.402] [main/ERROR] [mixin/]: Mixin config palladiumcore-common.mixins.json does not specify "minVersion" property
-[31Dec2024 02:55:51.405] [main/ERROR] [mixin/]: Mixin config palladiumcore.mixins.json does not specify "minVersion" property
-[31Dec2024 02:55:51.443] [main/ERROR] [mixin/]: Mixin config vc_gliders-common.mixins.json does not specify "minVersion" property
-[31Dec2024 02:55:51.445] [main/ERROR] [mixin/]: Mixin config vc_gliders.mixins.json does not specify "minVersion" property
-[31Dec2024 02:55:51.519] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[31Dec2024 02:55:51.521] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[31Dec2024 02:55:51.529] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
-[31Dec2024 02:55:51.616] [main/WARN] [mixin/]: Reference map 'tfmg.refmap.json' for design_decor.mixins.json could not be read. If this is a development environment you can ignore this message
-[31Dec2024 02:55:51.885] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/common/ConfigCommon (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.common.ConfigCommon)
-[31Dec2024 02:55:51.886] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[31Dec2024 02:55:51.886] [main/WARN] [mixin/]: @Mixin target com.firemerald.additionalplacements.block.AdditionalPlacementBlock was not found copycats-common.mixins.json:compat.additionalplacements.PlacementBlockMixin
-[31Dec2024 02:55:51.907] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
-[31Dec2024 02:55:51.909] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.BlockOcclusionCache)
-[31Dec2024 02:55:51.910] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.BlockRenderer)
-[31Dec2024 02:55:52.285] [main/WARN] [mixin/]: Error loading class: cjminecraft/doubleslabs/common/config/DSConfig$Common (java.lang.ClassNotFoundException: cjminecraft.doubleslabs.common.config.DSConfig$Common)
-[31Dec2024 02:55:52.559] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[31Dec2024 02:55:52.560] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[31Dec2024 02:55:52.560] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[31Dec2024 02:55:53.472] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[31Dec2024 02:55:53.474] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[31Dec2024 02:55:53.666] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[31Dec2024 02:55:55.940] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[31Dec2024 02:55:55.994] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[31Dec2024 02:55:56.123] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[31Dec2024 02:55:56.132] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[31Dec2024 02:55:56.138] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[31Dec2024 02:55:57.752] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on palladiumcore-common.mixins.json:LightningBoltMixin::handler$zbk000$tick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[31Dec2024 02:56:00.452] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
-[31Dec2024 02:56:00.652] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
-[31Dec2024 02:56:01.389] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
-[31Dec2024 02:56:01.602] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[31Dec2024 02:56:01.603] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[31Dec2024 02:56:02.356] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[31Dec2024 02:56:02.515] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
-[31Dec2024 02:56:02.592] [modloading-worker-0/INFO] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Starting...
-[31Dec2024 02:56:02.606] [modloading-worker-0/WARN] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Not supported on dedicated server!
-[31Dec2024 02:56:02.729] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id meadow:var_request
-[31Dec2024 02:56:02.915] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
-[31Dec2024 02:56:02.946] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
-[31Dec2024 02:56:02.966] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
-[31Dec2024 02:56:02.966] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
-[31Dec2024 02:56:02.967] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
-[31Dec2024 02:56:02.968] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
-[31Dec2024 02:56:02.969] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
-[31Dec2024 02:56:02.982] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
-[31Dec2024 02:56:02.983] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
-[31Dec2024 02:56:02.983] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
-[31Dec2024 02:56:02.984] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
-[31Dec2024 02:56:06.868] [main/INFO] [Create Deco/]: placard tooltip was null
-[31Dec2024 02:56:06.869] [main/INFO] [Create Deco/]: placard tooltip was null
-[31Dec2024 02:56:06.869] [main/INFO] [Create Deco/]: placard tooltip was null
-[31Dec2024 02:56:06.869] [main/INFO] [Create Deco/]: placard tooltip was null
-[31Dec2024 02:56:06.869] [main/INFO] [Create Deco/]: placard tooltip was null
-[31Dec2024 02:56:06.869] [main/INFO] [Create Deco/]: placard tooltip was null
-[31Dec2024 02:56:06.869] [main/INFO] [Create Deco/]: placard tooltip was null
-[31Dec2024 02:56:06.869] [main/INFO] [Create Deco/]: placard tooltip was null
-[31Dec2024 02:56:06.869] [main/INFO] [Create Deco/]: placard tooltip was null
-[31Dec2024 02:56:06.870] [main/INFO] [Create Deco/]: placard tooltip was null
-[31Dec2024 02:56:06.870] [main/INFO] [Create Deco/]: placard tooltip was null
-[31Dec2024 02:56:06.870] [main/INFO] [Create Deco/]: placard tooltip was null
-[31Dec2024 02:56:06.870] [main/INFO] [Create Deco/]: placard tooltip was null
-[31Dec2024 02:56:06.870] [main/INFO] [Create Deco/]: placard tooltip was null
-[31Dec2024 02:56:06.870] [main/INFO] [Create Deco/]: placard tooltip was null
-[31Dec2024 02:56:07.526] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:wooly_cow] was not realized!
-[31Dec2024 02:56:07.526] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:water_buffalo] was not realized!
-[31Dec2024 02:56:07.526] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
-[31Dec2024 02:56:07.526] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
-[31Dec2024 02:56:07.538] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:wooly_cow] was not realized!
-[31Dec2024 02:56:07.538] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:water_buffalo] was not realized!
-[31Dec2024 02:56:07.538] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
-[31Dec2024 02:56:07.539] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
-[31Dec2024 02:56:07.540] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:wooly_cow] was not realized!
-[31Dec2024 02:56:07.540] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:water_buffalo] was not realized!
-[31Dec2024 02:56:07.541] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
-[31Dec2024 02:56:07.541] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
-[31Dec2024 02:56:07.547] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:wooly_cow] was not realized!
-[31Dec2024 02:56:07.547] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:water_buffalo] was not realized!
-[31Dec2024 02:56:08.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
-[31Dec2024 02:56:08.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: OUTDATED Current: 2.0d Target: 2.0e
-[31Dec2024 02:56:08.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Starting version check at https://github.com/BumbleSoftware/Fastload/raw/Forge-1.20.1/updates.json
-[31Dec2024 02:56:08.762] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Found status: UP_TO_DATE Current: 3.4.0 Target: null
-[31Dec2024 02:56:08.763] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
-[31Dec2024 02:56:08.777] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 2.1.4+mc.1.20.1-forge Target: null
-[31Dec2024 02:56:08.777] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[31Dec2024 02:56:08.927] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[31Dec2024 02:56:08.928] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[31Dec2024 02:56:08.929] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[31Dec2024 02:56:08.929] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[31Dec2024 02:56:09.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
-[31Dec2024 02:56:09.492] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[31Dec2024 02:56:09.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[31Dec2024 02:56:09.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[31Dec2024 02:56:09.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[31Dec2024 02:56:09.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[31Dec2024 02:56:09.771] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[31Dec2024 02:56:09.772] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[31Dec2024 02:56:09.781] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
-[31Dec2024 02:56:09.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterf3] Starting version check at https://api.modrinth.com/updates/betterf3/forge_updates.json
-[31Dec2024 02:56:09.928] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterf3] Found status: UP_TO_DATE Current: 7.0.2 Target: null
-[31Dec2024 02:56:14.058] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[31Dec2024 02:56:17.961] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23181!/assets/.mcassetsroot' uses unexpected schema
-[31Dec2024 02:56:17.962] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23181!/data/.mcassetsroot' uses unexpected schema
-[31Dec2024 02:56:18.098] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: fokastudio:worldgen/biome/README.md, ignoring
-[31Dec2024 02:56:20.222] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[31Dec2024 02:56:22.054] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe design_decor:item_application/crushing_wheels/special_aluminum_cylinder
+[02Jan2025 02:29:59.381] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[02Jan2025 02:29:59.385] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[02Jan2025 02:30:00.522] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[02Jan2025 02:30:00.575] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Create-MC-server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[02Jan2025 02:30:00.844] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jan2025 02:30:00.846] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jan2025 02:30:00.847] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jan2025 02:30:00.848] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jan2025 02:30:01.093] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
+[02Jan2025 02:30:03.214] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02Jan2025 02:30:03.234] [main/ERROR] [mixin/]: Mixin config palladiumcore-common.mixins.json does not specify "minVersion" property
+[02Jan2025 02:30:03.236] [main/ERROR] [mixin/]: Mixin config palladiumcore.mixins.json does not specify "minVersion" property
+[02Jan2025 02:30:03.286] [main/ERROR] [mixin/]: Mixin config vc_gliders-common.mixins.json does not specify "minVersion" property
+[02Jan2025 02:30:03.287] [main/ERROR] [mixin/]: Mixin config vc_gliders.mixins.json does not specify "minVersion" property
+[02Jan2025 02:30:03.373] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[02Jan2025 02:30:03.374] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[02Jan2025 02:30:03.391] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Jan2025 02:30:03.516] [main/WARN] [mixin/]: Reference map 'tfmg.refmap.json' for design_decor.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Jan2025 02:30:03.811] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/common/ConfigCommon (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.common.ConfigCommon)
+[02Jan2025 02:30:03.813] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[02Jan2025 02:30:03.814] [main/WARN] [mixin/]: @Mixin target com.firemerald.additionalplacements.block.AdditionalPlacementBlock was not found copycats-common.mixins.json:compat.additionalplacements.PlacementBlockMixin
+[02Jan2025 02:30:03.839] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[02Jan2025 02:30:03.841] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.BlockOcclusionCache)
+[02Jan2025 02:30:03.844] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.BlockRenderer)
+[02Jan2025 02:30:04.214] [main/WARN] [mixin/]: Error loading class: cjminecraft/doubleslabs/common/config/DSConfig$Common (java.lang.ClassNotFoundException: cjminecraft.doubleslabs.common.config.DSConfig$Common)
+[02Jan2025 02:30:04.437] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[02Jan2025 02:30:04.438] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[02Jan2025 02:30:04.439] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[02Jan2025 02:30:05.269] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[02Jan2025 02:30:05.270] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[02Jan2025 02:30:05.479] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[02Jan2025 02:30:07.529] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[02Jan2025 02:30:07.576] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[02Jan2025 02:30:07.671] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[02Jan2025 02:30:07.680] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[02Jan2025 02:30:07.686] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[02Jan2025 02:30:09.027] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on palladiumcore-common.mixins.json:LightningBoltMixin::handler$zbk000$tick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[02Jan2025 02:30:11.706] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
+[02Jan2025 02:30:11.906] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
+[02Jan2025 02:30:12.600] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
+[02Jan2025 02:30:12.853] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[02Jan2025 02:30:12.853] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[02Jan2025 02:30:13.626] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[02Jan2025 02:30:13.764] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[02Jan2025 02:30:13.838] [modloading-worker-0/INFO] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Starting...
+[02Jan2025 02:30:13.840] [modloading-worker-0/WARN] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Not supported on dedicated server!
+[02Jan2025 02:30:14.137] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id meadow:var_request
+[02Jan2025 02:30:14.187] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[02Jan2025 02:30:14.206] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
+[02Jan2025 02:30:14.230] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[02Jan2025 02:30:14.231] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[02Jan2025 02:30:14.232] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[02Jan2025 02:30:14.232] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[02Jan2025 02:30:14.233] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[02Jan2025 02:30:14.234] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[02Jan2025 02:30:14.235] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[02Jan2025 02:30:14.236] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[02Jan2025 02:30:14.237] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[02Jan2025 02:30:17.880] [main/INFO] [Create Deco/]: placard tooltip was null
+[02Jan2025 02:30:17.881] [main/INFO] [Create Deco/]: placard tooltip was null
+[02Jan2025 02:30:17.881] [main/INFO] [Create Deco/]: placard tooltip was null
+[02Jan2025 02:30:17.881] [main/INFO] [Create Deco/]: placard tooltip was null
+[02Jan2025 02:30:17.881] [main/INFO] [Create Deco/]: placard tooltip was null
+[02Jan2025 02:30:17.881] [main/INFO] [Create Deco/]: placard tooltip was null
+[02Jan2025 02:30:17.881] [main/INFO] [Create Deco/]: placard tooltip was null
+[02Jan2025 02:30:17.881] [main/INFO] [Create Deco/]: placard tooltip was null
+[02Jan2025 02:30:17.881] [main/INFO] [Create Deco/]: placard tooltip was null
+[02Jan2025 02:30:17.882] [main/INFO] [Create Deco/]: placard tooltip was null
+[02Jan2025 02:30:17.882] [main/INFO] [Create Deco/]: placard tooltip was null
+[02Jan2025 02:30:17.882] [main/INFO] [Create Deco/]: placard tooltip was null
+[02Jan2025 02:30:17.882] [main/INFO] [Create Deco/]: placard tooltip was null
+[02Jan2025 02:30:17.882] [main/INFO] [Create Deco/]: placard tooltip was null
+[02Jan2025 02:30:17.882] [main/INFO] [Create Deco/]: placard tooltip was null
+[02Jan2025 02:30:18.419] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:water_buffalo] was not realized!
+[02Jan2025 02:30:18.419] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[02Jan2025 02:30:18.420] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:wooly_cow] was not realized!
+[02Jan2025 02:30:18.420] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[02Jan2025 02:30:18.429] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:water_buffalo] was not realized!
+[02Jan2025 02:30:18.429] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[02Jan2025 02:30:18.430] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:wooly_cow] was not realized!
+[02Jan2025 02:30:18.430] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[02Jan2025 02:30:18.431] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:water_buffalo] was not realized!
+[02Jan2025 02:30:18.431] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[02Jan2025 02:30:18.431] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:wooly_cow] was not realized!
+[02Jan2025 02:30:18.431] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[02Jan2025 02:30:18.434] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:water_buffalo] was not realized!
+[02Jan2025 02:30:18.434] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / meadow:wooly_cow] was not realized!
+[02Jan2025 02:30:19.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
+[02Jan2025 02:30:19.587] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: OUTDATED Current: 2.0d Target: 2.0e
+[02Jan2025 02:30:19.588] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Starting version check at https://github.com/BumbleSoftware/Fastload/raw/Forge-1.20.1/updates.json
+[02Jan2025 02:30:19.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Found status: UP_TO_DATE Current: 3.4.0 Target: null
+[02Jan2025 02:30:19.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
+[02Jan2025 02:30:19.685] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 2.1.4+mc.1.20.1-forge Target: null
+[02Jan2025 02:30:19.686] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[02Jan2025 02:30:19.966] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[02Jan2025 02:30:19.967] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[02Jan2025 02:30:19.970] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[02Jan2025 02:30:19.970] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[02Jan2025 02:30:20.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
+[02Jan2025 02:30:20.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Jan2025 02:30:20.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[02Jan2025 02:30:20.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[02Jan2025 02:30:20.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[02Jan2025 02:30:20.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[02Jan2025 02:30:20.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[02Jan2025 02:30:20.616] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[02Jan2025 02:30:20.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
+[02Jan2025 02:30:20.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterf3] Starting version check at https://api.modrinth.com/updates/betterf3/forge_updates.json
+[02Jan2025 02:30:20.742] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterf3] Found status: UP_TO_DATE Current: 7.0.2 Target: null
+[02Jan2025 02:30:25.141] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Jan2025 02:30:28.974] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23181!/assets/.mcassetsroot' uses unexpected schema
+[02Jan2025 02:30:28.975] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Create-MC-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23181!/data/.mcassetsroot' uses unexpected schema
+[02Jan2025 02:30:29.101] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: fokastudio:worldgen/biome/README.md, ignoring
+[02Jan2025 02:30:31.447] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[02Jan2025 02:30:33.160] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe design_decor:item_application/crushing_wheels/special_aluminum_cylinder
 com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -149,7 +149,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[31Dec2024 02:56:22.266] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe design_decor:item_application/millstones/special_aluminum_cylinder
+[02Jan2025 02:30:33.357] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe design_decor:item_application/millstones/special_aluminum_cylinder
 com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -186,419 +186,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[31Dec2024 02:56:22.441] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 33 recipes
-[31Dec2024 02:56:22.654] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5947 advancements
-[31Dec2024 02:56:22.679] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
-[31Dec2024 02:56:22.684] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[31Dec2024 02:56:22.685] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[31Dec2024 02:56:26.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[31Dec2024 02:56:26.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[31Dec2024 02:56:26.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[31Dec2024 02:56:26.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[31Dec2024 02:56:26.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[31Dec2024 02:56:26.879] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[31Dec2024 02:56:26.958] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[31Dec2024 02:56:26.959] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[31Dec2024 02:56:26.959] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[31Dec2024 02:56:26.960] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[31Dec2024 02:56:27.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[31Dec2024 02:56:36.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[31Dec2024 02:56:44.507] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 868785 ms
-[31Dec2024 02:56:44.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.535s)! For help, type "help"
-[31Dec2024 02:56:44.555] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[31Dec2024 02:56:44.558] [Server thread/INFO] [net.stardustlabs.incendium.Incendium/]: Thanks for choosing Incendium!
-[31Dec2024 02:56:44.563] [Server thread/INFO] [com.mangomilk.design_decor.DesignDecor/]: :3
-[31Dec2024 02:58:33.531] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sarh_a180_23[/127.193.217.12:58927] logged in with entity id 459 at (819.885048650295, 70.0, -373.99789674596286)
-[31Dec2024 02:58:33.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arquitecta] Sarh_a180_23 joined the game
-[31Dec2024 03:09:13.451] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [create_recipes:create_recipes] rejected their client side version number
-[31Dec2024 03:09:13.452] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[31Dec2024 03:09:13.479] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72d72cc8[id=<null>,name=Adrienartix,properties={},legacy=false] (/127.86.47.62:47677) lost connection: Connection closed - mismatched mod channel list
-[31Dec2024 03:10:21.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
-[31Dec2024 03:10:53.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 848.500000, 63.500000, -446.500000]
-[31Dec2024 03:14:27.188] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [create_recipes:create_recipes] rejected their client side version number
-[31Dec2024 03:14:27.189] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[31Dec2024 03:14:27.233] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a7a2d26[id=<null>,name=Adrienartix,properties={},legacy=false] (/127.86.47.62:33549) lost connection: Connection closed - mismatched mod channel list
-[31Dec2024 03:16:37.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Adrienartix[/127.86.47.62:44631] logged in with entity id 4486 at (862.2422321382044, 75.0, -363.48067922227796)
-[31Dec2024 03:16:37.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Adrienartix joined the game
-[31Dec2024 03:16:44.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Holii
-[31Dec2024 03:16:50.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> holaa
-[31Dec2024 03:16:54.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> ya viste la nueva descripción del server? JKAJSDKA
-[31Dec2024 03:17:00.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> pq tengo un cora
-[31Dec2024 03:17:04.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> No c
-[31Dec2024 03:17:05.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> SIIII GOIJSIOGJIJISGJH
-[31Dec2024 03:17:18.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> quedo bien la desc
-[31Dec2024 03:17:25.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> mira el minimapa
-[31Dec2024 03:17:47.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> que tanto hiciste en mi ausencia xd
-[31Dec2024 03:17:48.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=840, y=65, z=-441} BlockPos{x=840, y=63, z=-441}
-[31Dec2024 03:17:51.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> mucho
-[31Dec2024 03:18:03.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> pq hay redstone aqui OGAOK
-[31Dec2024 03:18:09.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> creepers de ores
-[31Dec2024 03:18:18.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> mis besties
-[31Dec2024 03:18:51.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> estoy cerca de la maquina de madera
-[31Dec2024 03:19:32.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> parece macchu pichu
-[31Dec2024 03:19:36.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 03:21:28.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Es que quiero hacer un mega taller de trenes que vayan a distintos lado
-[31Dec2024 03:21:43.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> omagad
-[31Dec2024 03:21:55.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> Tren maya referencia
-[31Dec2024 03:22:00.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 03:22:19.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Quiero hacer uno que ponga sus propias vias para ir a cualquier lado
-[31Dec2024 03:23:15.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> suena muy top xd
-[31Dec2024 03:23:32.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> imaginate poder hacer que vuele
-[31Dec2024 03:23:36.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 03:23:51.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> de hecho si
-[31Dec2024 03:24:16.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> que tal si hacemos un tren llenos de explosivo y se lo aventamos al ender dragon?
-[31Dec2024 03:24:21.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 03:24:28.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Creo que los trenes no van al end
-[31Dec2024 03:26:10.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> veeeeeeeeeeen
-[31Dec2024 03:26:15.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to [Señorita] Adrienartix]
-[31Dec2024 03:26:16.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> mira que paso
-[31Dec2024 03:26:24.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 03:26:30.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Me das huevo?
-[31Dec2024 03:27:06.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> mira mi maquina portatil
-[31Dec2024 03:27:44.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> que opinas
-[31Dec2024 03:27:50.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> esta epica
-[31Dec2024 03:27:55.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> adore
-[31Dec2024 03:28:02.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arquitecta] Sarh_a180_23 burned to death
-[31Dec2024 03:28:02.900] [Server thread/INFO] [tombstone/]: The player Sarh_a180_23 has successfully been saved
-[31Dec2024 03:29:19.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> tenemos nueva mascota
-[31Dec2024 03:30:02.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> cual
-[31Dec2024 03:30:15.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> mira el coral xd
-[31Dec2024 03:30:18.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> corral
-[31Dec2024 03:30:23.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> dame d comer xd
-[31Dec2024 03:30:45.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xD
-[31Dec2024 03:30:48.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> la mataste
-[31Dec2024 03:30:58.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Pense que iba a ser otra cosa
-[31Dec2024 03:31:04.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
-[31Dec2024 03:31:46.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> mira
-[31Dec2024 03:32:16.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> ya planta lo necesario
-[31Dec2024 03:32:35.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> nopuedeser
-[31Dec2024 03:32:42.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> son como las ias
-[31Dec2024 03:32:48.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 03:32:50.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> me quitan la chamba xd
-[31Dec2024 03:36:28.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> que mision peligrosa m toca
-[31Dec2024 03:36:38.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> busca azurina
-[31Dec2024 03:37:09.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> quejeso
-[31Dec2024 03:37:28.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> una piedra azul del create que se genera por el mundo
-[31Dec2024 03:37:39.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> creo que es la piedra que encontramos en la primera cueva
-[31Dec2024 03:38:59.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=68, z=-424} BlockPos{x=716, y=67, z=-423}
-[31Dec2024 03:39:47.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> boy boy
-[31Dec2024 03:40:06.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> ya void
-[31Dec2024 03:43:14.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> el de los camotes
-[31Dec2024 03:43:20.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD?
-[31Dec2024 03:43:46.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> eeeeeeeeee
-[31Dec2024 03:43:49.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> veeeeeeeeen
-[31Dec2024 03:43:58.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to [Señorita] Adrienartix]
-[31Dec2024 03:44:35.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> compra de todo
-[31Dec2024 03:44:43.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> nos va a ayudar a hacer vino
-[31Dec2024 03:45:41.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> oki doki
-[31Dec2024 03:45:51.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> por cierto no t queda una tipo pocion?
-[31Dec2024 03:45:51.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 718.500000, 70.500000, -440.500000]
-[31Dec2024 03:45:56.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> non
-[31Dec2024 03:46:04.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> pipipi
-[31Dec2024 03:46:34.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Adrienartix has made the advancement [What a Deal!]
-[31Dec2024 03:46:48.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Adrienartix has made the advancement [Juicy Success]
-[31Dec2024 03:47:32.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=727, y=70, z=-419} BlockPos{x=727, y=68, z=-420}
-[31Dec2024 03:53:47.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=767, y=71, z=-381} BlockPos{x=767, y=69, z=-380}
-[31Dec2024 03:54:18.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Adrienartix: Teleported [Señorita] Adrienartix to [Arquitecta] Sarh_a180_23]
-[31Dec2024 03:54:18.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Adrienartix froze to death
-[31Dec2024 03:54:18.982] [Server thread/INFO] [tombstone/]: The player Adrienartix has successfully been saved
-[31Dec2024 03:54:38.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Cerre el mini mapa y aqui esta tu tumba XD
-[31Dec2024 03:54:52.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> xd
-[31Dec2024 03:55:01.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> vivita y coleando
-[31Dec2024 03:55:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Estoy haciendo la gloriosa aplanacion
-[31Dec2024 03:56:00.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> i see
-[31Dec2024 03:56:09.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> yo ando buscando la azurina
-[31Dec2024 03:56:55.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Adrienartix has made the advancement [Pic-A-Nic Basket?]
-[31Dec2024 03:57:58.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> mate 2 osos
-[31Dec2024 03:58:12.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> :o
-[31Dec2024 03:58:13.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> nomanches
-[31Dec2024 03:58:21.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> encontre la casa de jenny
-[31Dec2024 03:58:25.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 03:58:26.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Adrienartix has made the advancement [Safe Haven]
-[31Dec2024 03:58:26.988] [Worker-Main-4/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
-[31Dec2024 03:58:26.989] [Worker-Main-4/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
-[31Dec2024 03:58:35.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Es una taverna
-[31Dec2024 03:58:45.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> del Dungeons and Taverns
-[31Dec2024 03:59:23.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> se nota que ya esta looteada
-[31Dec2024 03:59:29.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> fui yo
-[31Dec2024 03:59:41.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> hay un addon del create que mete estrogeno a minecraft XD
-[31Dec2024 03:59:50.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> aaaaaaa siiii vi
-[31Dec2024 03:59:57.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> y que hace
-[31Dec2024 04:00:12.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> te crecen booba?
-[31Dec2024 04:00:21.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> mete pastillas de estrogeno que se pueden crear y tu personaje va teniendo cambios fisicos xd
-[31Dec2024 04:01:09.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> que clase d cambios xd si somos puro cubo
-[31Dec2024 04:01:18.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> pos pechos xd
-[31Dec2024 04:01:42.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> aaaaaaa
-[31Dec2024 04:01:44.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> xd
-[31Dec2024 04:02:02.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> m estoy emocionando
-[31Dec2024 04:02:12.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> porque xd
-[31Dec2024 04:02:42.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> una duda
-[31Dec2024 04:02:55.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> como se ve cuando te acercas a una stronghold
-[31Dec2024 04:03:11.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> pues hay ladrillos de piedra
-[31Dec2024 04:03:57.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> musgo y telaranas?
-[31Dec2024 04:04:07.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> aveces telarañas
-[31Dec2024 04:04:52.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> uy
-[31Dec2024 04:05:03.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> quiza me estoy haciendo la de emocion
-[31Dec2024 04:06:23.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> encontre primero veridio
-[31Dec2024 04:06:31.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xd
-[31Dec2024 04:07:31.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> oye hay una parte donde hay muchas telaranas
-[31Dec2024 04:08:17.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> se cancela
-[31Dec2024 04:08:22.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> descubri otro crafteo xd
-[31Dec2024 04:08:25.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Señorita] Adrienartix was slain by Cave Centipede
-[31Dec2024 04:08:25.948] [Server thread/INFO] [tombstone/]: The player Adrienartix has successfully been saved
-[31Dec2024 04:08:30.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 04:08:37.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Te lo tomaste muy literal
-[31Dec2024 04:09:26.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> no m vuelvas a mandar sola a una cueva
-[31Dec2024 04:09:31.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> ;-;
-[31Dec2024 04:10:09.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> uy
-[31Dec2024 04:10:21.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> me acabo de encontrar una forma de tener zinc infinito
-[31Dec2024 04:11:38.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> xaero-waypoint:Waos:W:652:-2:-807:3:false:0:Internal-overworld-waypoints
-[31Dec2024 04:11:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> queeeeeee
-[31Dec2024 04:11:50.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> OYEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
-[31Dec2024 04:11:51.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 652.500000, -1.500000, -806.500000]
-[31Dec2024 04:12:10.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> que mido esta cueva
-[31Dec2024 04:12:15.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> miedo
-[31Dec2024 04:12:21.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> me salio un ciempies
-[31Dec2024 04:12:25.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xd
-[31Dec2024 04:12:28.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> tranquiila ya lo mate
-[31Dec2024 04:12:38.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> como t digo
-[31Dec2024 04:12:51.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> me explotaron dos creepers de diamante
-[31Dec2024 04:13:09.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> pa tus pantalones xd
-[31Dec2024 04:13:24.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> puede creer que recien m di cuenta? xd
-[31Dec2024 04:13:29.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xdddd
-[31Dec2024 04:13:40.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> y explotaron 2 de cobre
-[31Dec2024 04:13:50.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> me explotaron 4 seguidos
-[31Dec2024 04:16:05.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> las que mas vida social tiene
-[31Dec2024 04:16:09.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> xd
-[31Dec2024 04:16:11.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xdd
-[31Dec2024 04:16:14.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> nosotras
-[31Dec2024 04:16:29.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> si aplastamos carbon podemos hacer diamante
-[31Dec2024 04:16:52.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> que
-[31Dec2024 04:17:10.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
-[31Dec2024 04:17:30.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 726.500000, 70.500000, -423.500000]
-[31Dec2024 04:17:41.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=732, y=71, z=-425} BlockPos{x=732, y=69, z=-426}
-[31Dec2024 04:17:41.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=732, y=71, z=-425} BlockPos{x=732, y=69, z=-426}
-[31Dec2024 04:18:00.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=69, z=-424} BlockPos{x=733, y=69, z=-423}
-[31Dec2024 04:19:00.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> y como vas con la homeworkk?? xs
-[31Dec2024 04:19:07.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> bien xd
-[31Dec2024 04:19:19.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> por eso estoy aqui
-[31Dec2024 04:20:20.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=70, z=-414} BlockPos{x=730, y=69, z=-413}
-[31Dec2024 04:22:07.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> pero de que era la tarea xd? ,m dio curiosidad
-[31Dec2024 04:22:20.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> de geografia
-[31Dec2024 04:22:26.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> colorear unos mapas xd
-[31Dec2024 04:22:49.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> odiaba esa clase de tareas en segundo de secundaria
-[31Dec2024 04:22:54.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xddd
-[31Dec2024 04:23:01.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> also, tienes geografia???
-[31Dec2024 04:23:05.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> sis
-[31Dec2024 04:23:53.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> que
-[31Dec2024 04:23:56.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> nomanches
-[31Dec2024 04:24:05.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> vives en otro planeta
-[31Dec2024 04:24:11.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 04:24:24.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> yo no tengo geografia desde primero de secundaria
-[31Dec2024 04:24:50.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> es que la ENP si tiene geografia en su plan de estudios
-[31Dec2024 04:26:11.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Adrienartix: Teleported [Señorita] Adrienartix to [Arquitecta] Sarh_a180_23]
-[31Dec2024 04:26:25.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> puedes quitar esos arboles? xddd
-[31Dec2024 04:26:35.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> noomanches
-[31Dec2024 04:26:46.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> uy
-[31Dec2024 04:26:53.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> m robaste la kill
-[31Dec2024 04:26:58.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 04:27:06.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> cuales xd
-[31Dec2024 04:27:20.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Estos que sobresalen en la zona plana
-[31Dec2024 04:29:15.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> asi?
-[31Dec2024 04:29:20.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> sis
-[31Dec2024 04:29:28.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
-[31Dec2024 04:30:29.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Adrienartix: Teleported [Señorita] Adrienartix to 861.500000, 75.500000, -362.500000]
-[31Dec2024 04:30:48.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> se fue el de los camotes
-[31Dec2024 04:30:54.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 04:31:09.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> oye pues nada mal la minadita que me eche
-[31Dec2024 04:31:19.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> un stack y 14 diamantes
-[31Dec2024 04:31:41.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Ahora tu misión es minar cuarzo y redstone y hacer cuarzo rosa
-[31Dec2024 04:32:37.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> m voy al nether
-[31Dec2024 04:33:42.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> yo continuare con la gloriosa aplanación
-[31Dec2024 04:34:49.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> cuanto cuarzo rosa?
-[31Dec2024 04:35:00.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> para lo que te alcance
-[31Dec2024 04:35:51.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Adrienartix: Teleported [Señorita] Adrienartix to [Arquitecta] Sarh_a180_23]
-[31Dec2024 04:36:16.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> a caray
-[31Dec2024 04:36:25.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> no redstone?
-[31Dec2024 04:36:29.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Adrienartix: Teleported [Señorita] Adrienartix to 861.500000, 75.500000, -362.500000]
-[31Dec2024 04:36:32.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 04:36:35.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Desaparecia
-[31Dec2024 04:36:37.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> no
-[31Dec2024 04:36:46.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> por eso te pedi que minaras redstone xdddd
-[31Dec2024 04:36:50.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> xddddd
-[31Dec2024 04:36:54.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> ola nether
-[31Dec2024 04:37:08.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> se que no nos llebamos bien
-[31Dec2024 04:37:20.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> pero solo vbengo por un poco de cuarzo
-[31Dec2024 04:37:27.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xddd
-[31Dec2024 04:38:24.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> sabes
-[31Dec2024 04:38:33.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> estoy bien dormida
-[31Dec2024 04:38:42.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xddd
-[31Dec2024 04:38:45.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> porque
-[31Dec2024 04:39:03.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> pense que el carbon era piedra negra y lo queria usar de bloque
-[31Dec2024 04:39:07.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 04:39:11.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
-[31Dec2024 04:39:31.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 731.500000, 70.500000, -432.500000]
-[31Dec2024 04:40:54.392] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[31Dec2024 04:41:57.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=832, y=70, z=-402} BlockPos{x=833, y=68, z=-402}
-[31Dec2024 04:42:16.644] [Server thread/INFO] [EMI/]: [EMI] Sarh_a180_23 deleted 1 spruce_sapling
-[31Dec2024 04:43:31.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> llevare un stack y a la cama
-[31Dec2024 04:43:42.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> ???
-[31Dec2024 04:43:52.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> esa frase se puede interpretar de muchas formas
-[31Dec2024 04:43:54.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> :v
-[31Dec2024 04:44:01.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> pues que dije
-[31Dec2024 04:44:04.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> FJIJJOAJOCVOAFO
-[31Dec2024 04:44:35.134] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/27661, l='ServerLevel[world]', x=171.00, y=34.99, z=6.55] died: Restless Spirit starved to death
-[31Dec2024 04:44:35.135] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/27663, l='ServerLevel[world]', x=177.20, y=46.64, z=-12.27] died: Restless Spirit starved to death
-[31Dec2024 04:44:39.986] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/27715, l='ServerLevel[world]', x=139.14, y=102.53, z=-15.51] died: Restless Spirit starved to death
-[31Dec2024 04:44:39.987] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/27717, l='ServerLevel[world]', x=150.51, y=100.71, z=-4.20] died: Restless Spirit starved to death
-[31Dec2024 04:45:24.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/28078, l='ServerLevel[world]', x=143.21, y=100.89, z=-6.35] died: Restless Spirit starved to death
-[31Dec2024 04:45:47.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Adrienartix: Teleported [Señorita] Adrienartix to [Arquitecta] Sarh_a180_23]
-[31Dec2024 04:45:56.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> ola bb
-[31Dec2024 04:46:00.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> ????
-[31Dec2024 04:46:02.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> JKSDAKJDAS
-[31Dec2024 04:46:19.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> cualquier cosa ando dormida
-[31Dec2024 04:46:25.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Adrienartix: Teleported [Señorita] Adrienartix to 652.500000, -1.500000, -806.500000]
-[31Dec2024 04:46:28.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Apoco si
-[31Dec2024 04:46:47.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> mentira no es xdddddddddddd
-[31Dec2024 04:46:53.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xddd
-[31Dec2024 04:47:15.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=817, y=68, z=-404} BlockPos{x=818, y=68, z=-404}
-[31Dec2024 04:48:56.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Adrienartix: Teleported [Señorita] Adrienartix to [Arquitecta] Sarh_a180_23]
-[31Dec2024 04:49:02.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> oa
-[31Dec2024 04:49:08.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> holi
-[31Dec2024 04:52:09.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> va progresando bien la aplanación
-[31Dec2024 04:53:33.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> ubicas a SilencioShh?
-[31Dec2024 04:53:51.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> non quien es?
-[31Dec2024 04:54:05.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> un youtuber que es rommie de Rakkun
-[31Dec2024 04:54:09.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> la vtuber
-[31Dec2024 04:54:29.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=786, y=69, z=-401} BlockPos{x=784, y=69, z=-403}
-[31Dec2024 04:54:29.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=786, y=69, z=-401} BlockPos{x=784, y=69, z=-403}
-[31Dec2024 04:54:43.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> a rakkun si la conozco xd
-[31Dec2024 04:54:50.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> pero al otro no
-[31Dec2024 04:55:01.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> son roomies junto con Lin
-[31Dec2024 04:55:59.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> hijole
-[31Dec2024 04:56:08.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> me estoy perdiendo de mucho
-[31Dec2024 04:56:14.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xd
-[31Dec2024 04:56:33.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> ahorita estoy como en esos videos de lobotomy
-[31Dec2024 04:56:42.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 04:57:13.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Neuron disactivation
-[31Dec2024 04:57:38.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Señorita] Adrienartix: Teleported [Señorita] Adrienartix to [Arquitecta] Sarh_a180_23]
-[31Dec2024 04:57:54.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> asi mero
-[31Dec2024 04:58:06.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> mira
-[31Dec2024 04:58:08.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> ponganme un video de burnice
-[31Dec2024 04:58:09.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> pasamelo
-[31Dec2024 04:58:18.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> iba a hacerlo
-[31Dec2024 04:58:24.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> pero m lo pediste
-[31Dec2024 04:58:33.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> no osea
-[31Dec2024 04:58:43.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> el cuarzo rosa que ya tienes pasamelo
-[31Dec2024 04:58:55.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> te quiero mostrar algo
-[31Dec2024 05:00:06.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> miraa
-[31Dec2024 05:00:14.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> omagaaaaad
-[31Dec2024 05:00:24.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> cuanto resulto?
-[31Dec2024 05:00:33.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> 20, me falta papel lija
-[31Dec2024 05:00:41.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> para seguir puliendo el cuarzo este
-[31Dec2024 05:01:02.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> ohhhh
-[31Dec2024 05:01:07.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> asi ta bien?
-[31Dec2024 05:01:14.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> sis
-[31Dec2024 05:01:14.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> queria ayudar tantito
-[31Dec2024 05:01:22.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> pos ayudame xdd
-[31Dec2024 05:01:39.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> sobreexplotacion
-[31Dec2024 05:01:42.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 05:01:48.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Pero tu te ofreciste
-[31Dec2024 05:01:56.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> non pero yo te habia dicho que
-[31Dec2024 05:02:07.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> un stack de cuarzo y pa la cama
-[31Dec2024 05:02:12.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> aaaa
-[31Dec2024 05:02:16.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> yo me voy a la cama xd
-[31Dec2024 05:02:20.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> pues vamos :vvvvvv
-[31Dec2024 05:02:22.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> jKAJSKDJA
-[31Dec2024 05:02:26.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> uy
-[31Dec2024 05:02:29.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> IJASGFJAOJGOJGO
-[31Dec2024 05:02:51.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> primero ponme de [sirvienta] y luego ya si
-[31Dec2024 05:02:55.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Señorita] Adrienartix> FJAOOKOGKPFP
-[31Dec2024 05:03:49.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> mira
-[31Dec2024 05:03:51.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 05:04:15.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> el tab
-[31Dec2024 05:04:16.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Sirvienta] Adrienartix: Teleported [Sirvienta] Adrienartix to [Arquitecta] Sarh_a180_23]
-[31Dec2024 05:04:22.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> xddddddd
-[31Dec2024 05:04:32.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> okei
-[31Dec2024 05:04:38.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> ahora si a la cama
-[31Dec2024 05:04:45.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Ayudante] Adrienartix> pero yo namas
-[31Dec2024 05:04:48.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> mejor asi
-[31Dec2024 05:04:51.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Ayudante] Adrienartix> xd
-[31Dec2024 05:04:58.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Ayudante] Adrienartix> regresale
-[31Dec2024 05:05:01.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Ayudante] Adrienartix> xdddddd
-[31Dec2024 05:05:04.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 05:05:06.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Porque XD
-[31Dec2024 05:05:22.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> ayudante suena muy a
-[31Dec2024 05:05:28.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> ayudante de santa
-[31Dec2024 05:05:31.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
-[31Dec2024 05:05:48.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> buenoooooooooooo
-[31Dec2024 05:05:55.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> aqui m despido
-[31Dec2024 05:06:00.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Adiooos
-[31Dec2024 05:06:56.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Sirvienta] Adrienartix: Teleported [Sirvienta] Adrienartix to [Arquitecta] Sarh_a180_23]
-[31Dec2024 05:07:45.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> graciaas
-[31Dec2024 05:07:50.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> ten pa k ilumines xd
-[31Dec2024 05:08:05.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> aun no lo hacia porque falta mucho terreno xd
-[31Dec2024 05:08:14.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> el color se puede cambiar? xd
-[31Dec2024 05:08:22.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> el del rango
-[31Dec2024 05:08:23.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> ?
-[31Dec2024 05:08:24.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> si
-[31Dec2024 05:08:32.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> es que veo que hay como 50 bichos alrededor
-[31Dec2024 05:08:37.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> sip del rango xd
-[31Dec2024 05:08:47.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> es que el anterior es mi color fav
-[31Dec2024 05:08:54.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> ese?
-[31Dec2024 05:09:00.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> xd
-[31Dec2024 05:09:03.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> nono
-[31Dec2024 05:09:10.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> es como verde menta
-[31Dec2024 05:09:15.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> pero mas apagado
-[31Dec2024 05:09:22.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> ese?
-[31Dec2024 05:09:24.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> sip ese
-[31Dec2024 05:09:42.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> toma toma toma
-[31Dec2024 05:09:50.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> JKSJD
-[31Dec2024 05:09:59.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> buenooooooooooo
-[31Dec2024 05:10:04.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> ya ahora si m voy
-[31Dec2024 05:10:11.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Oks
-[31Dec2024 05:10:14.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> descansaaaaaa
-[31Dec2024 05:10:17.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> sis
-[31Dec2024 05:10:26.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Adrienartix lost connection: Disconnected
-[31Dec2024 05:10:26.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sirvienta] Adrienartix left the game
-[31Dec2024 05:11:31.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=750, y=72, z=-412} BlockPos{x=750, y=70, z=-410}
-[31Dec2024 05:12:29.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=812, y=68, z=-416} BlockPos{x=811, y=68, z=-416}
-[31Dec2024 05:12:29.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=812, y=68, z=-416} BlockPos{x=811, y=68, z=-416}
-[31Dec2024 05:15:16.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=755, y=69, z=-405} BlockPos{x=755, y=67, z=-403}
-[31Dec2024 05:15:16.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=755, y=69, z=-405} BlockPos{x=755, y=67, z=-403}
-[31Dec2024 05:27:02.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
-[31Dec2024 05:27:47.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 764.500000, 70.500000, -404.500000]
-[31Dec2024 05:30:14.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=68, z=-413} BlockPos{x=839, y=67, z=-413}
-[31Dec2024 05:30:14.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=68, z=-413} BlockPos{x=839, y=67, z=-413}
-[31Dec2024 05:30:14.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=69, z=-412} BlockPos{x=838, y=67, z=-412}
-[31Dec2024 05:37:25.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
-[31Dec2024 05:38:26.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=799, y=69, z=-421} BlockPos{x=798, y=67, z=-422}
-[31Dec2024 05:38:26.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=799, y=69, z=-421} BlockPos{x=798, y=67, z=-422}
-[31Dec2024 05:38:26.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=68, z=-421} BlockPos{x=798, y=67, z=-422}
-[31Dec2024 05:38:26.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=68, z=-421} BlockPos{x=798, y=67, z=-422}
-[31Dec2024 05:38:26.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=68, z=-421} BlockPos{x=798, y=67, z=-422}
-[31Dec2024 05:38:26.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=68, z=-423} BlockPos{x=798, y=67, z=-422}
-[31Dec2024 05:38:26.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=68, z=-423} BlockPos{x=798, y=67, z=-422}
-[31Dec2024 05:38:26.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=68, z=-423} BlockPos{x=798, y=67, z=-422}
-[31Dec2024 05:38:26.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=68, z=-423} BlockPos{x=798, y=67, z=-422}
-[31Dec2024 05:38:28.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=794, y=68, z=-427} BlockPos{x=793, y=68, z=-428}
-[31Dec2024 05:38:33.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=777, y=69, z=-431} BlockPos{x=776, y=68, z=-430}
-[31Dec2024 05:41:27.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=779, y=68, z=-432} BlockPos{x=779, y=67, z=-433}
-[31Dec2024 05:43:31.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sarh_a180_23 moved too quickly! -8.377292427943758,-1.7420008964847256,5.631866998410658
-[31Dec2024 05:44:44.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=817, y=69, z=-433} BlockPos{x=816, y=67, z=-434}
-[31Dec2024 05:44:44.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=817, y=69, z=-433} BlockPos{x=816, y=67, z=-434}
-[31Dec2024 05:45:02.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=811, y=69, z=-426} BlockPos{x=813, y=67, z=-425}
-[31Dec2024 05:45:02.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=811, y=69, z=-426} BlockPos{x=813, y=67, z=-425}
-[31Dec2024 05:45:04.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=811, y=69, z=-422} BlockPos{x=813, y=67, z=-422}
-[31Dec2024 05:46:27.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=833, y=68, z=-436} BlockPos{x=833, y=66, z=-437}
-[31Dec2024 05:46:27.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=833, y=68, z=-436} BlockPos{x=833, y=66, z=-437}
-[31Dec2024 06:12:29.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 816.500000, 70.500000, -431.500000]
-[31Dec2024 06:12:40.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 765.500000, 70.500000, -417.500000]
-[31Dec2024 06:31:47.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
-[31Dec2024 06:36:12.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
-[31Dec2024 07:01:20.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Set the time to 13000]
-[31Dec2024 07:03:47.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sarh_a180_23 lost connection: Disconnected
-[31Dec2024 07:03:47.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arquitecta] Sarh_a180_23 left the game
-[31Dec2024 07:03:48.025] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[31Dec2024 07:04:04.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sarh_a180_23[/127.193.217.12:53365] logged in with entity id 56329 at (859.8949577089072, 72.0, -377.3632441345441)
-[31Dec2024 07:04:04.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arquitecta] Sarh_a180_23 joined the game
+[02Jan2025 02:30:33.567] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 33 recipes
+[02Jan2025 02:30:33.839] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5947 advancements
+[02Jan2025 02:30:33.867] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[02Jan2025 02:30:33.877] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[02Jan2025 02:30:33.879] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[02Jan2025 02:30:37.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[02Jan2025 02:30:37.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Jan2025 02:30:37.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Jan2025 02:30:37.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Jan2025 02:30:38.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Jan2025 02:30:38.136] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Jan2025 02:30:38.228] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Jan2025 02:30:38.229] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Jan2025 02:30:38.229] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Jan2025 02:30:38.229] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Jan2025 02:30:38.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Jan2025 02:30:46.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Jan2025 02:30:53.890] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 355489 ms
+[02Jan2025 02:30:53.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.648s)! For help, type "help"
+[02Jan2025 02:30:53.940] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Jan2025 02:30:53.944] [Server thread/INFO] [net.stardustlabs.incendium.Incendium/]: Thanks for choosing Incendium!
+[02Jan2025 02:30:53.949] [Server thread/INFO] [com.mangomilk.design_decor.DesignDecor/]: :3
+[02Jan2025 02:31:25.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sarh_a180_23[/127.193.217.12:40207] logged in with entity id 456 at (800.1148930822006, 70.0, -434.1086876846819)
+[02Jan2025 02:31:25.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arquitecta] Sarh_a180_23 joined the game
+[02Jan2025 02:31:27.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2644ms or 52 ticks behind
