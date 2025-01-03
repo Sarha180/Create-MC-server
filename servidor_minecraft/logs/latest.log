@@ -576,3 +576,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [03Jan2025 05:39:37.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Set own game mode to Creative Mode]
 [03Jan2025 05:39:56.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Set own game mode to Survival Mode]
 [03Jan2025 05:51:02.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Gave 64 [Apple] to [Arquitecta] Sarh_a180_23]
+[03Jan2025 06:16:41.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sarh_a180_23 lost connection: Timed out
+[03Jan2025 06:16:41.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arquitecta] Sarh_a180_23 left the game
+[03Jan2025 06:16:41.603] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
