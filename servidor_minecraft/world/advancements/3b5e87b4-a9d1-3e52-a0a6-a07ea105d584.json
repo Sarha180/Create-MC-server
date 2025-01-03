@@ -54,6 +54,8 @@
       "minecraft:windswept_forest": "2024-12-26 04:24:16 +0000",
       "minecraft:ocean": "2024-12-30 03:29:34 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-27 00:01:54 +0000",
+      "minecraft:windswept_savanna": "2025-01-03 03:46:42 +0000",
+      "minecraft:flower_forest": "2025-01-03 03:45:43 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-26 04:20:23 +0000",
       "minecraft:plains": "2024-12-29 03:00:31 +0000"
     },
@@ -2041,6 +2043,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "swamp_village": "2025-01-03 03:48:47 +0000",
       "illager_camp": "2024-12-27 00:04:48 +0000"
     },
     "done": false
@@ -5767,6 +5770,78 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 05:18:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-01-03 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 03:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-01-03 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-03 03:55:49 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/pumpkin_juice": {
+    "criteria": {
+      "has_pumpkin": "2025-01-03 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 03:39:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/knowledge_wasted": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 03:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-01-03 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/purple_dye_from_chorus_fruit": {
+    "criteria": {
+      "has_item": "2025-01-03 03:55:49 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2025-01-03 03:48:47 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/chorus_plant_from_fruit": {
+    "criteria": {
+      "has_item": "2025-01-03 03:55:49 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/chorus_fruit_juice": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-03 03:55:49 +0000"
     },
     "done": true
   },
