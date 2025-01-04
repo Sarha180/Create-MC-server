@@ -5866,21 +5866,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/basket": {
-    "criteria": {
-      "has_canvas": "2025-01-04 22:56:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-01-04 22:20:24 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_woodburner": {
-    "criteria": {
-      "has_item": "2025-01-04 23:11:42 +0000"
     },
     "done": true
   },
@@ -5890,21 +5878,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/book_from_canvas": {
-    "criteria": {
-      "has_canvas": "2025-01-04 22:56:53 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-01-04 22:20:24 +0000"
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/smokestack_coalburner": {
+  "farmersdelight:recipes/decorations/basket": {
     "criteria": {
-      "has_item": "2025-01-04 23:11:42 +0000"
+      "has_canvas": "2025-01-04 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/book_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-01-04 22:56:53 +0000"
     },
     "done": true
   },
@@ -5920,21 +5908,9 @@
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/smokestack_oilburner": {
-    "criteria": {
-      "has_item": "2025-01-04 23:11:42 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/canvas_rug": {
     "criteria": {
       "has_canvas": "2025-01-04 22:56:53 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_long": {
-    "criteria": {
-      "has_item": "2025-01-04 23:11:42 +0000"
     },
     "done": true
   },
@@ -5962,6 +5938,48 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/canvas_sign": {
+    "criteria": {
+      "has_canvas": "2025-01-04 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/painting_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-01-04 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-01-04 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_woodburner": {
+    "criteria": {
+      "has_item": "2025-01-04 23:11:42 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_coalburner": {
+    "criteria": {
+      "has_item": "2025-01-04 23:11:42 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_oilburner": {
+    "criteria": {
+      "has_item": "2025-01-04 23:11:42 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_long": {
+    "criteria": {
+      "has_item": "2025-01-04 23:11:42 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_streamlined": {
     "criteria": {
       "has_item": "2025-01-04 23:11:42 +0000"
@@ -5980,21 +5998,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/canvas_sign": {
+  "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
-      "has_canvas": "2025-01-04 22:56:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/painting_from_canvas": {
-    "criteria": {
-      "has_canvas": "2025-01-04 22:56:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
-    "criteria": {
-      "has_canvas": "2025-01-04 22:56:53 +0000"
+      "killed_by": "2025-01-04 23:32:16 +0000"
     },
     "done": true
   },
