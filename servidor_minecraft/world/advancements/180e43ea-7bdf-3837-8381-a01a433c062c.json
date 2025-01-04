@@ -7938,77 +7938,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "nova_structures:adventure/find_swamp_village": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 06:16:27 +0000"
+      "minecraft:village_swamp": "2025-01-03 03:50:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/food/dried_kelp": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 06:16:27 +0000"
+      "has_dried_kelp_block": "2025-01-03 04:27:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "create:hose_pulley": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 06:16:27 +0000"
+      "0": "2025-01-03 04:42:16 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 06:16:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 06:16:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 06:16:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 06:16:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 06:16:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 06:16:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 06:16:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 06:16:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 06:16:27 +0000"
-    },
-    "done": false
+    "done": true
   },
   "createdeco:recipes/decorations/pink_shipping_container_from_dyeing_vaults": {
     "criteria": {
@@ -8088,18 +8034,6 @@
     },
     "done": true
   },
-  "create:hose_pulley": {
-    "criteria": {
-      "0": "2025-01-03 04:42:16 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_swamp_village": {
-    "criteria": {
-      "minecraft:village_swamp": "2025-01-03 03:50:45 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/green_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2025-01-03 05:43:01 +0000"
@@ -8109,12 +8043,6 @@
   "createdeco:recipes/decorations/brown_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2025-01-03 05:43:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp": {
-    "criteria": {
-      "has_dried_kelp_block": "2025-01-03 04:27:44 +0000"
     },
     "done": true
   },
