@@ -8058,6 +8058,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/leaf_helmet": {
+    "criteria": {
+      "has_leaves": "2025-01-04 23:15:06 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/brass_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2025-01-04 23:00:12 +0000"
@@ -8112,9 +8118,27 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/leaf_leggings": {
+    "criteria": {
+      "has_leaves": "2025-01-04 23:15:06 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/building_blocks/brass_window": {
     "criteria": {
       "has_item": "2025-01-04 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_chestplate": {
+    "criteria": {
+      "has_leaves": "2025-01-04 23:15:06 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_boots": {
+    "criteria": {
+      "has_leaves": "2025-01-04 23:15:06 +0000"
     },
     "done": true
   },
