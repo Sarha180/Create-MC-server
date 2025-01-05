@@ -11781,3 +11781,89 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [04Jan2025 23:54:40.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
 [04Jan2025 23:55:34.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jan2025 23:55:34.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 00:00:34.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 00:00:34.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 00:02:24.058] [Worker-Main-53/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[05Jan2025 00:02:24.061] [Worker-Main-53/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[05Jan2025 00:05:17.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> encontre una taverna
+[05Jan2025 00:05:28.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> :o
+[05Jan2025 00:05:34.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 00:05:34.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 00:05:37.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to [Sirvienta] Adrienartix]
+[05Jan2025 00:06:39.142] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[05Jan2025 00:06:39.155] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[05Jan2025 00:06:39.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
+[05Jan2025 00:06:39.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Adrienartix moved too quickly! 9.589623465158835,0.0,-3.2213771541505594
+[05Jan2025 00:06:59.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> mira
+[05Jan2025 00:07:02.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> encontre esto
+[05Jan2025 00:07:22.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> no se leer mapas de maincra
+[05Jan2025 00:07:35.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
+[05Jan2025 00:07:41.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> ni yox d
+[05Jan2025 00:07:47.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xd
+[05Jan2025 00:08:04.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> marco un waypoint/
+[05Jan2025 00:08:07.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> ?
+[05Jan2025 00:08:09.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> sis
+[05Jan2025 00:08:50.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Sirvienta] Adrienartix: Teleported [Sirvienta] Adrienartix to 10.500000, 66.500000, -325.500000]
+[05Jan2025 00:08:55.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> xaero-waypoint:Taverna 2:T:10:66:-326:10:false:0:Internal-overworld-waypoints
+[05Jan2025 00:09:49.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Adrienartix) moved wrongly! 0.6943891227684986
+[05Jan2025 00:09:49.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Adrienartix) moved wrongly! 1.1348244495933812
+[05Jan2025 00:09:49.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Adrienartix) moved wrongly! 0.3900863544217401
+[05Jan2025 00:09:49.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Adrienartix) moved wrongly! 0.3900863544217401
+[05Jan2025 00:09:50.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Adrienartix) moved wrongly! 0.2722428831612831
+[05Jan2025 00:09:50.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Adrienartix) moved wrongly! 0.31558199427662714
+[05Jan2025 00:09:50.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Adrienartix) moved wrongly! 0.3836537813960206
+[05Jan2025 00:09:50.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Adrienartix) moved wrongly! 0.5710497696669421
+[05Jan2025 00:09:50.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Adrienartix) moved wrongly! 0.764465803941988
+[05Jan2025 00:10:37.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 00:10:37.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 00:11:39.803] [Worker-Main-58/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[05Jan2025 00:11:39.804] [Worker-Main-58/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[05Jan2025 00:12:04.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sirvienta] Adrienartix has made the advancement [Call For Adventure]
+[05Jan2025 00:12:13.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> :o
+[05Jan2025 00:12:18.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> omagad
+[05Jan2025 00:12:25.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> mapa de una ancient city\
+[05Jan2025 00:12:52.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> diermeeeee
+[05Jan2025 00:15:37.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 00:15:37.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 00:16:26.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> xaero-waypoint:Taverna 3 ahora es personal:T:-559:63:-344:9:false:0:Internal-overworld-waypoints
+[05Jan2025 00:16:39.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
+[05Jan2025 00:16:42.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> El nombre
+[05Jan2025 00:16:50.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> si xd
+[05Jan2025 00:17:14.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> me hice rica
+[05Jan2025 00:17:27.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> ya eras :p
+[05Jan2025 00:17:29.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> digo
+[05Jan2025 00:17:37.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> sis pq t tengo
+[05Jan2025 00:17:39.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> digo
+[05Jan2025 00:17:42.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> que
+[05Jan2025 00:17:51.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> so me das
+[05Jan2025 00:18:07.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> aquinoSUS
+[05Jan2025 00:18:24.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> cierto que no estoy en kick para poner los emotes :vvv
+[05Jan2025 00:18:37.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Set own game mode to Creative Mode]
+[05Jan2025 00:18:38.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> encontre el bioma de sakura
+[05Jan2025 00:18:49.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> oo
+[05Jan2025 00:19:21.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Set own game mode to Survival Mode]
+[05Jan2025 00:19:58.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arquitecta] Sarh_a180_23 has reached the goal [Desperate Measures]
+[05Jan2025 00:20:10.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> XD
+[05Jan2025 00:20:12.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> El logro
+[05Jan2025 00:20:37.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 00:20:37.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 00:20:56.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> xaero-waypoint:Sakura:S:-868:118:-219:13:false:0:Internal-overworld-waypoints
+[05Jan2025 00:25:20.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> nomanches nomanches
+[05Jan2025 00:25:27.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Arquitecta] Sarh_a180_23: Teleported [Arquitecta] Sarh_a180_23 to 861.500000, 75.500000, -362.500000]
+[05Jan2025 00:25:34.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> que paso?
+[05Jan2025 00:25:37.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 00:25:37.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 00:25:52.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> el bioma de sakura
+[05Jan2025 00:26:01.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> aaa
+[05Jan2025 00:26:02.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xd
+[05Jan2025 00:26:07.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> esta alado de un bioma morado
+[05Jan2025 00:26:12.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> oo
+[05Jan2025 00:26:14.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> esta hermoso
+[05Jan2025 00:28:58.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sirvienta] Adrienartix has made the advancement [Ol' Betsy]
+[05Jan2025 00:29:35.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Sirvienta] Adrienartix: Teleported [Sirvienta] Adrienartix to 861.500000, 75.500000, -362.500000]
+[05Jan2025 00:29:43.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sirvienta] Adrienartix froze to death
+[05Jan2025 00:29:43.306] [Server thread/DEBUG] [tombstone/]: A new grave of the player Adrienartix was created at position [x:859, y:75, z:-356, dim:minecraft:overworld]
+[05Jan2025 00:29:43.311] [Server thread/INFO] [tombstone/]: The player Adrienartix has successfully been saved
+[05Jan2025 00:29:53.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Sirvienta] Adrienartix: Teleported [Sirvienta] Adrienartix to 860.500000, 76.500000, -355.500000]
+[05Jan2025 00:30:37.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 00:30:37.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

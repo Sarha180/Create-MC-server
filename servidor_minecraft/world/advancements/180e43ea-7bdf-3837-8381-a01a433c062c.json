@@ -8148,6 +8148,12 @@
     },
     "done": true
   },
+  "create:crafter_lazy_000": {
+    "criteria": {
+      "0": "2025-01-05 00:19:58 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/brass_support_wedge_from_stonecutting": {
     "criteria": {
       "has_item": "2025-01-04 23:00:12 +0000"
