@@ -6005,15 +6005,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-01-05 00:28:58 +0000"
-    },
-    "done": true
-  },
   "nova_structures:adventure/tavern_quest": {
     "criteria": {
       "open_tavern_chest": "2025-01-05 00:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-05 00:28:58 +0000"
     },
     "done": true
   },
