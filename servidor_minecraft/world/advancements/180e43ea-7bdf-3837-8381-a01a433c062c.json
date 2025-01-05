@@ -8220,15 +8220,69 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/scoria_castel_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-05 01:22:49 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scoria_castel_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-05 01:22:49 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/umber_bricks": {
+    "criteria": {
+      "has_item": "2025-01-05 01:22:49 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scoria_castel_tile_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-05 01:22:49 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scoria_castel_tiles_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-05 01:22:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-01-05 01:18:27 +0000"
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/scoria_castel_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-05 01:22:49 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scoria_castel_tile_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-05 01:22:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-01-05 01:18:27 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scoria_castel_tile_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-05 01:22:49 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scoria_castel_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-05 01:22:49 +0000"
     },
     "done": true
   },
