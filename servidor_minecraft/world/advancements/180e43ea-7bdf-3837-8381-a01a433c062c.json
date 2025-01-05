@@ -8100,6 +8100,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/building_blocks/dusk_bricks": {
+    "criteria": {
+      "has_item": "2025-01-04 23:49:01 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/brass_bars_from_stonecutting": {
     "criteria": {
       "has_item": "2025-01-04 23:00:12 +0000"
@@ -8109,6 +8115,36 @@
   "createdeco:recipes/decorations/brass_support": {
     "criteria": {
       "has_item": "2025-01-04 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scorchia_castel_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-01-04 23:49:01 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scorchia_castel_tile_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-01-04 23:49:01 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scorchia_castel_tile_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-01-04 23:49:01 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scorchia_castel_tiles_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-01-04 23:49:01 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scorchia_castel_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-01-04 23:49:01 +0000"
     },
     "done": true
   },
@@ -8130,6 +8166,18 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/scorchia_castel_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-01-04 23:49:01 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scorchia_castel_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-01-04 23:49:01 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/leaf_chestplate": {
     "criteria": {
       "has_leaves": "2025-01-04 23:15:06 +0000"
@@ -8145,6 +8193,12 @@
   "createdeco:recipes/decorations/brass_trapdoor": {
     "criteria": {
       "has_item": "2025-01-04 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/scorchia_castel_tile_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-01-04 23:49:01 +0000"
     },
     "done": true
   },
