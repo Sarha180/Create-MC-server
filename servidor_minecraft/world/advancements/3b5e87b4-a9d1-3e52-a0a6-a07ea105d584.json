@@ -6131,5 +6131,11 @@
     },
     "done": true
   },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "red_taiga_grape_seeds": "2025-01-08 03:08:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
