@@ -266,3 +266,74 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [08Jan2025 04:01:11.242] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/16773, l='ServerLevel[world]', x=175.72, y=41.63, z=67.49] died: Restless Spirit starved to death
 [08Jan2025 04:01:11.791] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/16780, l='ServerLevel[world]', x=193.15, y=85.89, z=6.84] died: Restless Spirit starved to death
 [08Jan2025 04:01:33.894] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/16853, l='ServerLevel[world]', x=203.62, y=35.29, z=90.50] died: Restless Spirit starved to death
+[08Jan2025 04:01:48.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sirvienta] Adrienartix was doomed to fall by Crimson Mosquito
+[08Jan2025 04:01:48.072] [Server thread/INFO] [tombstone/]: The player Adrienartix has successfully been saved
+[08Jan2025 04:02:11.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> :,v
+[08Jan2025 04:02:34.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Sirvienta] Adrienartix: Teleported [Sirvienta] Adrienartix to 861.500000, 75.500000, -362.500000]
+[08Jan2025 04:02:51.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Sirvienta] Adrienartix: Teleported [Sirvienta] Adrienartix to 232.500000, 53.500000, 4.500000]
+[08Jan2025 04:05:03.848] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18369, l='ServerLevel[world]', x=173.13, y=38.29, z=61.47] died: Restless Spirit starved to death
+[08Jan2025 04:05:47.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Sirvienta] Adrienartix: Teleported [Sirvienta] Adrienartix to [Arquitecta] Sarh_a180_23]
+[08Jan2025 04:05:50.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sirvienta] Adrienartix burned to death
+[08Jan2025 04:05:50.943] [Server thread/INFO] [tombstone/]: The player Adrienartix has successfully been saved
+[08Jan2025 04:05:58.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arquitecta] Sarh_a180_23 has reached the goal [Discreet Search]
+[08Jan2025 04:05:58.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Sirvienta] Adrienartix: Teleported [Sirvienta] Adrienartix to [Arquitecta] Sarh_a180_23]
+[08Jan2025 04:06:10.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> que
+[08Jan2025 04:06:11.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xd
+[08Jan2025 04:06:21.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> pipipi
+[08Jan2025 04:06:32.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> malditos mosquitos
+[08Jan2025 04:06:36.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> xddd
+[08Jan2025 04:07:59.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19279, l='ServerLevel[world]', x=142.58, y=101.20, z=-12.34] died: Restless Spirit starved to death
+[08Jan2025 04:08:00.446] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19380, l='ServerLevel[world]', x=174.91, y=44.73, z=1.77] died: Restless Spirit starved to death
+[08Jan2025 04:08:22.746] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19615, l='ServerLevel[world]', x=148.42, y=98.62, z=-1.96] died: Restless Spirit starved to death
+[08Jan2025 04:08:22.747] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19619, l='ServerLevel[world]', x=152.66, y=98.56, z=7.35] died: Restless Spirit starved to death
+[08Jan2025 04:08:58.344] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19871, l='ServerLevel[world]', x=162.57, y=107.83, z=-26.38] died: Restless Spirit starved to death
+[08Jan2025 04:08:58.345] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19873, l='ServerLevel[world]', x=153.48, y=102.37, z=-19.42] died: Restless Spirit starved to death
+[08Jan2025 04:08:58.345] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19875, l='ServerLevel[world]', x=147.37, y=103.09, z=-26.58] died: Restless Spirit starved to death
+[08Jan2025 04:08:58.346] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19877, l='ServerLevel[world]', x=154.74, y=104.53, z=-36.31] died: Restless Spirit starved to death
+[08Jan2025 04:09:13.094] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20002, l='ServerLevel[world]', x=126.60, y=104.02, z=-28.57] died: Restless Spirit starved to death
+[08Jan2025 04:09:15.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Sirvienta] Adrienartix: Teleported [Sirvienta] Adrienartix to 191.500000, 100.500000, -62.500000]
+[08Jan2025 04:09:23.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20072, l='ServerLevel[world]', x=141.93, y=112.69, z=-38.53] died: Restless Spirit starved to death
+[08Jan2025 04:09:27.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20108, l='ServerLevel[world]', x=137.35, y=40.86, z=6.43] died: Restless Spirit starved to death
+[08Jan2025 04:09:27.753] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20110, l='ServerLevel[world]', x=133.68, y=40.97, z=11.72] died: Restless Spirit starved to death
+[08Jan2025 04:09:27.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20112, l='ServerLevel[world]', x=159.63, y=35.55, z=-10.46] died: Restless Spirit starved to death
+[08Jan2025 04:09:54.691] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20389, l='ServerLevel[world]', x=168.67, y=95.52, z=56.46] died: Restless Spirit starved to death
+[08Jan2025 04:09:56.641] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20416, l='ServerLevel[world]', x=144.73, y=51.57, z=46.32] died: Restless Spirit starved to death
+[08Jan2025 04:09:59.593] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20444, l='ServerLevel[world]', x=186.32, y=50.66, z=33.01] died: Restless Spirit starved to death
+[08Jan2025 04:10:34.991] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20586, l='ServerLevel[world]', x=165.63, y=41.47, z=9.60] died: Restless Spirit starved to death
+[08Jan2025 04:10:39.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20626, l='ServerLevel[world]', x=137.64, y=35.83, z=30.49] died: Restless Spirit starved to death
+[08Jan2025 04:10:39.800] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20630, l='ServerLevel[world]', x=183.32, y=41.45, z=9.73] died: Restless Spirit starved to death
+[08Jan2025 04:11:51.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20915, l='ServerLevel[world]', x=142.50, y=101.17, z=45.09] died: Restless Spirit starved to death
+[08Jan2025 04:11:51.043] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20919, l='ServerLevel[world]', x=143.53, y=90.55, z=46.14] died: Restless Spirit starved to death
+[08Jan2025 04:12:16.145] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/21060, l='ServerLevel[world]', x=200.30, y=41.01, z=18.25] died: Restless Spirit starved to death
+[08Jan2025 04:15:13.347] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/21750, l='ServerLevel[world]', x=129.37, y=89.27, z=44.35] died: Restless Spirit starved to death
+[08Jan2025 04:15:30.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/21828, l='ServerLevel[world]', x=152.77, y=104.24, z=-16.01] died: Restless Spirit starved to death
+[08Jan2025 04:15:30.495] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/21830, l='ServerLevel[world]', x=143.35, y=97.88, z=1.44] died: Restless Spirit starved to death
+[08Jan2025 04:15:40.791] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/21880, l='ServerLevel[world]', x=168.43, y=94.46, z=23.78] died: Restless Spirit starved to death
+[08Jan2025 04:15:40.791] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/21882, l='ServerLevel[world]', x=149.93, y=101.81, z=42.23] died: Restless Spirit starved to death
+[08Jan2025 04:15:40.792] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/21884, l='ServerLevel[world]', x=134.22, y=91.31, z=10.26] died: Restless Spirit starved to death
+[08Jan2025 04:16:11.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sirvienta] Adrienartix has made the advancement [Who is Cutting Onions?]
+[08Jan2025 04:16:18.942] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22014, l='ServerLevel[world]', x=166.45, y=102.34, z=-36.38] died: Restless Spirit starved to death
+[08Jan2025 04:16:19.644] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22019, l='ServerLevel[world]', x=179.39, y=155.35, z=124.11] died: Restless Spirit starved to death
+[08Jan2025 04:16:19.645] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22021, l='ServerLevel[world]', x=186.28, y=153.14, z=118.64] died: Restless Spirit starved to death
+[08Jan2025 04:16:28.543] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22081, l='ServerLevel[world]', x=143.58, y=94.33, z=3.41] died: Restless Spirit starved to death
+[08Jan2025 04:16:28.544] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22083, l='ServerLevel[world]', x=129.26, y=96.48, z=-10.99] died: Restless Spirit starved to death
+[08Jan2025 04:18:03.593] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22417, l='ServerLevel[world]', x=206.06, y=153.32, z=114.80] died: Restless Spirit starved to death
+[08Jan2025 04:18:18.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sirvienta] Adrienartix has reached the goal [Eye of Darkness]
+[08Jan2025 04:18:28.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22564, l='ServerLevel[world]', x=169.58, y=109.18, z=-5.43] died: Restless Spirit starved to death
+[08Jan2025 04:18:28.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22568, l='ServerLevel[world]', x=150.06, y=91.93, z=18.71] died: Restless Spirit starved to death
+[08Jan2025 04:18:30.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> esta saliendo niem
+[08Jan2025 04:18:51.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> que
+[08Jan2025 04:19:05.191] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22721, l='ServerLevel[world]', x=179.20, y=97.19, z=33.45] died: Restless Spirit starved to death
+[08Jan2025 04:19:05.192] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22723, l='ServerLevel[world]', x=201.00, y=103.35, z=49.23] died: Restless Spirit starved to death
+[08Jan2025 04:19:38.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22844, l='ServerLevel[world]', x=210.66, y=97.36, z=47.97] died: Restless Spirit starved to death
+[08Jan2025 04:19:47.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> dos ender pearl
+[08Jan2025 04:19:48.496] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22876, l='ServerLevel[world]', x=212.40, y=144.71, z=127.26] died: Restless Spirit starved to death
+[08Jan2025 04:19:48.497] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22878, l='ServerLevel[world]', x=200.11, y=152.31, z=127.89] died: Restless Spirit starved to death
+[08Jan2025 04:20:45.593] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/23085, l='ServerLevel[world]', x=134.64, y=93.66, z=15.85] died: Restless Spirit starved to death
+[08Jan2025 04:21:18.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> pueden dar netherite??
+[08Jan2025 04:21:27.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> que cosa
+[08Jan2025 04:21:27.842] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/23253, l='ServerLevel[world]', x=155.66, y=100.95, z=59.53] died: Restless Spirit starved to death
+[08Jan2025 04:21:29.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> los hoblins
+[08Jan2025 04:21:35.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Arquitecta] Sarh_a180_23> Non
+[08Jan2025 04:21:53.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Sirvienta] Adrienartix> que es lo mas top que dan?
+[08Jan2025 04:21:56.048] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/23345, l='ServerLevel[world]', x=183.97, y=89.87, z=31.17] died: Restless Spirit starved to death
